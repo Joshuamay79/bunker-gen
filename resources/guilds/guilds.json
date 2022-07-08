@@ -1,0 +1,46 @@
+[
+    {
+        "guildId": 1,
+        "guildName": "Ashen"
+    },
+    {
+        "guildId": 2,
+        "guildName": "Alas!"
+    },
+    {
+        "guildId": 3,
+        "guildName": "Skuldugger"
+    },
+    {
+        "guildId": 4,
+        "guildName": "Dahlia"
+    },
+    {
+        "guildId": 5,
+        "guildName": "Blackpowder"
+    },
+    {
+        "guildId": 6,
+        "guildName": "Malefactor"
+    },
+    {
+        "guildId": 7,
+        "guildName": "Hyperius"
+    },
+    {
+        "guildId": 8,
+        "guildName": "Pangoblin"
+    },
+    {
+        "guildId": 9,
+        "guildName": "Feriore"
+    },
+    {
+        "guildId": 10,
+        "guildName": "Torgue"
+    },
+    {
+        "guildId": 11,
+        "guildName": "Stoker"
+    }
+]

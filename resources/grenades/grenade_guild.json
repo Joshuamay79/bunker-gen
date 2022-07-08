@@ -1,0 +1,10 @@
+[
+    { "DieNumber": 1, "GuildId": 1, "GuildName":"Ashen" },
+    { "DieNumber": 2, "GuildId": 4, "GuildName":"Dahlia" },
+    { "DieNumber": 3, "GuildId": 9, "GuildName":"Feriore" },
+    { "DieNumber": 4, "GuildId": 7, "GuildName":"Hyperius" },
+    { "DieNumber": 5, "GuildId": 6, "GuildName":"Malefactor" },
+    { "DieNumber": 6, "GuildId": 8, "GuildName":"Pangoblin" },
+    { "DieNumber": 7, "GuildId": 11, "GuildName":"Stoker" },
+    { "DieNumber": 8, "GuildId": 10, "GuildName":"Torgue" }
+]

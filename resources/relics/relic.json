@@ -1,0 +1,294 @@
+[
+    {
+        "DieRange": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "relicType": "Vitality",
+        "effect": "+20 Max Health.",
+        "classEffect": "+5 Health from Potions.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            6,
+            7,
+            8,
+            9,
+            10
+        ],
+        "relicType": "Stockpile",
+        "effect": "+2 Max Grenades.",
+        "classEffect": "+1 Grenade from Loot Piles.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            11,
+            12,
+            13,
+            14,
+            15
+        ],
+        "relicType": "Protection",
+        "effect": "+15 Max Shields.",
+        "classEffect": "+10 Recharge Rate.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            16,
+            17,
+            18,
+            19,
+            20
+        ],
+        "relicType": "Aggression",
+        "effect": "+3 Damage for Favored Gun.",
+        "classEffect": "+1 Damage to all Guns.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            21,
+            22,
+            23,
+            24,
+            25
+        ],
+        "relicType": "Resistance",
+        "effect": "+1d4 Elemental Resistance.",
+        "classEffect": "+1d4 Damage Resistance.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            26,
+            27,
+            28,
+            29,
+            30
+        ],
+        "relicType": "Tenacity",
+        "effect": "+1 Initiative Mod.",
+        "classEffect": "+10 Health.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            31,
+            32,
+            33,
+            34,
+            35
+        ],
+        "relicType": "Elemental",
+        "effect": "+2 Elemental Damage.",
+        "classEffect": "+20% on Elemental Rolls.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            36,
+            37,
+            38,
+            39,
+            40
+        ],
+        "relicType": "Strength",
+        "effect": "+3 Melee Damage.",
+        "classEffect": "+1 Melee Attack/turn.",
+        "rarity": "Common"
+    },
+    {
+        "DieRange": [
+            41,
+            42,
+            43,
+            44,
+            45
+        ],
+        "relicType": "Vitality",
+        "effect": "+30 Max Health.",
+        "classEffect": "+10 Health from Potions.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            46,
+            47,
+            48,
+            49,
+            50
+        ],
+        "relicType": "Stockpile",
+        "effect": "+2 Max Grenades.",
+        "classEffect": "+2 Grenade from Loot Piles.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            51,
+            52,
+            53,
+            54,
+            55
+        ],
+        "relicType": "Protection",
+        "effect": "+20 Max Shields.",
+        "classEffect": "+15 Recharge Rate.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            56,
+            57,
+            58,
+            59,
+            60
+        ],
+        "relicType": "Aggression",
+        "effect": "+4 Damage for Favored Gun.",
+        "classEffect": "+2 Damage to all Guns.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            61,
+            62,
+            63,
+            64,
+            65
+        ],
+        "relicType": "Resistance",
+        "effect": "+1d6 Elemental Resistance.",
+        "classEffect": "+1d6 Damage Resistance.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            66,
+            67,
+            68,
+            69,
+            70
+        ],
+        "relicType": "Tenacity",
+        "effect": "+2 Initiative Mod.",
+        "classEffect": "+15 Health.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            71,
+            72,
+            73,
+            74,
+            75
+        ],
+        "relicType": "Elemental",
+        "effect": "+3 Elemental Damage.",
+        "classEffect": "+30% on Elemental Rolls.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            76,
+            77,
+            78,
+            79,
+            80
+        ],
+        "relicType": "Strength",
+        "effect": "+4 Melee Damage.",
+        "classEffect": "+2 Melee Attack/turn.",
+        "rarity": "Uncommon"
+    },
+    {
+        "DieRange": [
+            81,
+            82,
+            83,
+            84,
+            85
+        ],
+        "relicType": "Vitality",
+        "effect": "+40 Max Health.",
+        "classEffect": "+15 Health from Potions.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            86,
+            87,
+            88,
+            89,
+            90
+        ],
+        "relicType": "Stockpile",
+        "effect": "+4 Max Grenades.",
+        "classEffect": "+3 Grenade from Loot Piles.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            91,
+            92,
+            93,
+            94,
+            95
+        ],
+        "relicType": "Protection",
+        "effect": "+25 Max Shields.",
+        "classEffect": "+20 Recharge Rate.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            96
+        ],
+        "relicType": "Aggression",
+        "effect": "+5 Damage for Favored Gun.",
+        "classEffect": "+3 Damage to all Guns.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            97
+        ],
+        "relicType": "Resistance",
+        "effect": "+1d8 Elemental Resistance.",
+        "classEffect": "+1d8 Damage Resistance.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            98
+        ],
+        "relicType": "Tenacity",
+        "effect": "+3 Initiative Mod.",
+        "classEffect": "+20 Health.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            99
+        ],
+        "relicType": "Elemental",
+        "effect": "+4 Elemental Damage.",
+        "classEffect": "+40% on Elemental Rolls.",
+        "rarity": "Rare"
+    },
+    {
+        "DieRange": [
+            100
+        ],
+        "relicType": "Strength",
+        "effect": "+5 Melee Damage.",
+        "classEffect": "+3 Melee Attack/turn.",
+        "rarity": "Rare"
+    }
+]

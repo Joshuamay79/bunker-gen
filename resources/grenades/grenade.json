@@ -1,0 +1,329 @@
+[
+  {
+    "guildId": 1,
+    "GuildName": "Ashen",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Transfusion",
+    "damage": "1d8",
+    "effects": "Gain Health equal to Damage dealt"
+  },
+  {
+    "guildId": 1,
+    "GuildName": "Ashen",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Homing",
+    "damage": "2d8",
+    "effects": "Automatically Hits closest target"
+  },
+  {
+    "guildId": 1,
+    "GuildName": "Ashen",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Transfusion",
+    "damage": "3d8",
+    "effects": "Gain Health equal to Damage dealt"
+  },
+  {
+    "guildId": 1,
+    "GuildName": "Ashen",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Homing",
+    "damage": "4d8",
+    "effects": "Automatically Hits closest target"
+  },
+  {
+    "guildId": 1,
+    "GuildName": "Ashen",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Transfusion",
+    "damage": "5d8",
+    "effects": "Gain Health equal to Damage dealt"
+  },
+
+  {
+    "guildId": 4,
+    "GuildName": "Dahlia",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Generator",
+    "damage": "1d8",
+    "effects": "Recharges Shields equal to Damage dealt"
+  },
+  {
+    "guildId": 4,
+    "GuildName": "Dahlia",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Bouncing Bettie",
+    "damage": "2d8",
+    "effects": "Detonates in the target square for 2 turns"
+  },
+  {
+    "guildId": 4,
+    "GuildName": "Dahlia",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Generator",
+    "damage": "3d8",
+    "effects": "Recharges Shields equal to Damage dealt"
+  },
+  {
+    "guildId": 4,
+    "GuildName": "Dahlia",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Bouncing Bettie",
+    "damage": "4d8",
+    "effects": "Detonates in the target square for 2 turns"
+  },
+  {
+    "guildId": 4,
+    "GuildName": "Dahlia",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Generator",
+    "damage": "5d8",
+    "effects": "Recharges Shields equal to Damage dealt"
+  },
+
+  {
+    "guildId": 9,
+    "GuildName": "Feriore",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Jumping",
+    "damage": "1d8",
+    "effects": "Detonates, then jumps 2 squares and detonates again"
+  },
+  {
+    "guildId": 9,
+    "GuildName": "Feriore",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Sticky",
+    "damage": "2d8",
+    "effects": "Sticks to surfaces. Detonates after 1 turn"
+  },
+  {
+    "guildId": 9,
+    "GuildName": "Feriore",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Jumping",
+    "damage": "3d8",
+    "effects": "Detonates, then jumps 2 squares and detonates again"
+  },
+  {
+    "guildId": 9,
+    "GuildName": "Feriore",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Sticky",
+    "damage": "4d8",
+    "effects": "Sticks to surfaces. Detonates after 1 turn"
+  },
+  {
+    "guildId": 9,
+    "GuildName": "Feriore",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Jumping",
+    "damage": "5d8",
+    "effects": "Detonates, then jumps 2 squares and detonates again"
+  },
+
+  {
+    "guildId": 7,
+    "GuildName": "Hyperius",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Longbow",
+    "damage": "1d8",
+    "effects": "Teleports to target. Ignores Cover"
+  },
+  {
+    "guildId": 7,
+    "GuildName": "Hyperius",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Roider",
+    "damage": "2d10",
+    "effects": "Increased Damage"
+  },
+  {
+    "guildId": 7,
+    "GuildName": "Hyperius",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Longbow",
+    "damage": "3d8",
+    "effects": "Teleports to target. Ignores Cover"
+  },
+  {
+    "guildId": 7,
+    "GuildName": "Hyperius",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Roider",
+    "damage": "4d10",
+    "effects": "Increased Damage"
+  },
+  {
+    "guildId": 7,
+    "GuildName": "Hyperius",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Longbow",
+    "damage": "5d8",
+    "effects": "Teleports to target. Ignores Cover"
+  },
+
+  {
+    "guildId": 6,
+    "GuildName": "Malefactor",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Elemental",
+    "damage": "1d8",
+    "effects": "Gains Element type"
+  },
+  {
+    "guildId": 6,
+    "GuildName": "Malefactor",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Contact",
+    "damage": "2d8",
+    "effects": "Detonates on contact with target"
+  },
+  {
+    "guildId": 6,
+    "GuildName": "Malefactor",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Elemental",
+    "damage": "3d8",
+    "effects": "Gains Element type"
+  },
+  {
+    "guildId": 6,
+    "GuildName": "Malefactor",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Contact",
+    "damage": "4d8",
+    "effects": "Detonates on contact with target"
+  },
+  {
+    "guildId": 6,
+    "GuildName": "Malefactor",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Elemental",
+    "damage": "5d8",
+    "effects": "Gains Element type"
+  },
+
+  {
+    "guildId": 8,
+    "GuildName": "Pangoblin",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Rubberized",
+    "damage": "1d8",
+    "effects": "Bounces off surfaces. Detonates on contact with any target"
+  },
+  {
+    "guildId": 8,
+    "GuildName": "Pangoblin",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Force",
+    "damage": "2d8",
+    "effects": "Targets Hit are Knocked Back 1 square"
+  },
+  {
+    "guildId": 8,
+    "GuildName": "Pangoblin",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Rubberized",
+    "damage": "3d8",
+    "effects": "Bounces off surfaces. Detonates on contact with any target"
+  },
+  {
+    "guildId": 8,
+    "GuildName": "Pangoblin",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Force",
+    "damage": "4d8",
+    "effects": "Targets Hit are Knocked Back 1 square"
+  },
+  {
+    "guildId": 8,
+    "GuildName": "Pangoblin",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Rubberized",
+    "damage": "5d8",
+    "effects": "Bounces off surfaces. Detonates on contact with any target"
+  },
+
+  {
+    "guildId": 11,
+    "GuildName": "Stoker",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Proximity Mine",
+    "damage": "1d8",
+    "effects": "Won't detonate until target is adjacent"
+  },
+  {
+    "guildId": 11,
+    "GuildName": "Stoker",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "Rain",
+    "damage": "2d8",
+    "effects": "Launches up and deals Damage downward in a 2x2 square area"
+  },
+  {
+    "guildId": 11,
+    "GuildName": "Stoker",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Proximity Mine",
+    "damage": "3d8",
+    "effects": "Won't detonate until target is adjacent"
+  },
+  {
+    "guildId": 11,
+    "GuildName": "Stoker",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "Rain",
+    "damage": "4d8",
+    "effects": "Launches up and deals Damage downward in a 2x2 square area"
+  },
+  {
+    "guildId": 11,
+    "GuildName": "Stoker",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Proximity Mine",
+    "damage": "5d8",
+    "effects": "Won't detonate until target is adjacent"
+  },
+
+  {
+    "guildId": 10,
+    "GuildName": "Torgue",
+    "levelRange": [1, 2, 3, 4, 5, 6],
+    "grenadeType": "Splash",
+    "damage": "1d8",
+    "effects": "Deals full Splash Damage"
+  },
+  {
+    "guildId": 10,
+    "GuildName": "Torgue",
+    "levelRange": [7, 8, 9, 10, 11, 12],
+    "grenadeType": "MIRV",
+    "damage": "2d8",
+    "effects": "Splits into 3 grenades"
+  },
+  {
+    "guildId": 10,
+    "GuildName": "Torgue",
+    "levelRange": [13, 14, 15, 16, 17, 18],
+    "grenadeType": "Splash",
+    "damage": "3d8",
+    "effects": "Deals full Splash Damage"
+  },
+  {
+    "guildId": 10,
+    "GuildName": "Torgue",
+    "levelRange": [19, 20, 21, 22, 23, 24],
+    "grenadeType": "MIRV",
+    "damage": "4d8",
+    "effects": "Splits into 3 grenades"
+  },
+  {
+    "guildId": 10,
+    "GuildName": "Torgue",
+    "levelRange": [25, 26, 27, 28, 29, 30],
+    "grenadeType": "Splash",
+    "damage": "5d8",
+    "effects": "Deals full Splash Damage"
+  }
+]
