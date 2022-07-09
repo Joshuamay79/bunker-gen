@@ -9,20 +9,20 @@ namespace BunkerGen.Services
         private List<Guild> Guilds;
         private readonly DiceService DiceService;
 
-        public static async Task<ShieldService> BuildShieldLoaderService()
+        public static async Task<ShieldService> BuildShieldLoaderService(DiceService diceService)
         {
             var gd = await JsonLoaderService.Load<List<GuildDie>>(".\\resources\\shields\\shield_guild.json");
             var s = await JsonLoaderService.Load<List<Shield>>(".\\resources\\shields\\shield.json");
             var g = await JsonLoaderService.Load<List<Guild>>(".\\resources\\guilds\\guilds.json");
-            return new ShieldService(gd, s, g);
+            return new ShieldService(diceService, gd, s, g);
         }
 
-        private ShieldService(List<GuildDie> guildDice, List<Shield> shields, List<Guild> guilds)
+        private ShieldService(DiceService diceService, List<GuildDie> guildDice, List<Shield> shields, List<Guild> guilds)
         {
             GuildDice = guildDice;
             Shields = shields;
             Guilds = guilds;
-            DiceService = new DiceService();
+            DiceService = diceService;
         }
 
         public Shield Execute(int level)

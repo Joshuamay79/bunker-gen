@@ -1,4 +1,7 @@
-public class UnassumingChestService
+namespace BunkerGen.Services
+{
+    public class UnassumingChestService
 {
     
+}
 }

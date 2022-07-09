@@ -8,20 +8,20 @@ namespace BunkerGen.Services
         private readonly List<RelicClass> RelicClasses;
         private readonly DiceService DiceService;
 
-        public static async Task<RelicService> BuildRelicLoaderService()
+        public static async Task<RelicService> BuildRelicLoaderService(DiceService diceService)
         {
             var relics = await JsonLoaderService.Load<List<Relic>>(".\\resources\\relics\\relic.json");
 
             var relicClasses = await JsonLoaderService.Load<List<RelicClass>>(".\\resources\\relics\\relic_class.json");
 
-            return new RelicService(relics, relicClasses);
+            return new RelicService(diceService, relics, relicClasses);
         }
 
-        private RelicService(List<Relic> relics, List<RelicClass> relicClasses)
+        private RelicService(DiceService diceService, List<Relic> relics, List<RelicClass> relicClasses)
         {
             Relics = relics;
             RelicClasses = relicClasses;
-            DiceService = new DiceService();
+            DiceService = diceService;
         }
 
         public Relic Execute()

@@ -17,14 +17,3 @@ public enum DiceType
     D20 = 21,
     D100 = 101
 }
-
-// public static class D
-// {
-//     public static int D4=5;
-//     public static int D20=21;
-//     public static int D20=21;
-//     public static int D20=21;
-//     public static int D20=21;
-//     public static int D20=21;
-//     public static int D20=21;
-// }

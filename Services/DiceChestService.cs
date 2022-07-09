@@ -1,4 +1,6 @@
-public class DiceChestService
+namespace BunkerGen.Services
+{public class DiceChestService
 {
     
+}
 }

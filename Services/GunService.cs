@@ -3,10 +3,10 @@ namespace BunkerGen.Services
     public class GunService
     {
         private readonly DiceService DiceService;
-        private GunService()
+        private GunService(DiceService diceService)
         {
 
-            DiceService = new DiceService();
+            DiceService = diceService;
         }
     }
 }

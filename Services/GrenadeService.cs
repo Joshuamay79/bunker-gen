@@ -9,21 +9,21 @@ namespace BunkerGen.Services
         private List<Guild> Guilds;
         private readonly DiceService DiceService;
 
-        public static async Task<GrenadeService> BuildGrenadeLoaderService()
+        public static async Task<GrenadeService> BuildGrenadeLoaderService(DiceService diceService)
         {
             var gd = await JsonLoaderService.Load<List<GuildDie>>(".\\resources\\grenades\\grenade_guild.json");
             var s = await JsonLoaderService.Load<List<Grenade>>(".\\resources\\grenades\\grenade.json");
             var g = await JsonLoaderService.Load<List<Guild>>(".\\resources\\guilds\\guilds.json");
 
-            return new GrenadeService(gd, s, g);
+            return new GrenadeService(diceService, gd, s, g);
         }
 
-        private GrenadeService(List<GuildDie> guildDice, List<Grenade> grenades, List<Guild> guilds)
+        private GrenadeService(DiceService diceService, List<GuildDie> guildDice, List<Grenade> grenades, List<Guild> guilds)
         {
             GuildDice = guildDice;
             Grenades = grenades;
             Guilds = guilds;
-            DiceService = new DiceService();
+            DiceService = diceService;
         }
 
         public Grenade Execute(int level)

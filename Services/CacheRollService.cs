@@ -1,4 +1,7 @@
-public class CacheRollService
+namespace BunkerGen.Services
+{
+    public class CacheRollService
 {
     
+}
 }

@@ -1,0 +1,242 @@
+[
+    {
+      "Die Number": 1,
+      "Is permanent": false,
+      "Title": "Bad Luck",
+      "Description": "The BREW-U malfunctions: roll on the Permanent table."
+    },
+    {
+      "Die Number": 2,
+      "Is permanent": false,
+      "Title": "Immersive",
+      "Description": "Must do a silly character voice. If you ever forget, take 1d6 damage."
+    },
+    {
+      "Die Number": 3,
+      "Is permanent": false,
+      "Title": "Unloaded",
+      "Description": "A random equipped gun doesn't spawn with you. You will see it for sale at the next shop you find."
+    },
+    {
+      "Die Number": 4,
+      "Is permanent": false,
+      "Title": "Refractory",
+      "Description": "Every time you roll a natural 20 on an Attack poll, fall asleep for the next turn."
+    },
+    {
+      "Die Number": 5,
+      "Is permanent": false,
+      "Title": "No Boom",
+      "Description": "Current grenades is set to 0."
+    },
+    {
+      "Die Number": 6,
+      "Is permanent": false,
+      "Title": "Stumbling",
+      "Description": "-1 on Talk and Traverse Checks for the day"
+    },
+    {
+      "Die Number": 7,
+      "Is permanent": false,
+      "Title": "Pistol Perplexion",
+      "Description": "your vault Hunter is unable to tell the difference between guns and food."
+    },
+    {
+      "Die Number": 8,
+      "Is permanent": false,
+      "Title": "Health Drain",
+      "Description": "-5 max Health for the day."
+    },
+    {
+      "Die Number": 9,
+      "Is permanent": false,
+      "Title": "Power Drain",
+      "Description": "-20 max Shields for the day."
+    },
+    {
+      "Die Number": 10,
+      "Is permanent": false,
+      "Title": "Punch Drunk",
+      "Description": "You must punch every non—combatant NPC you meet."
+    },
+    {
+      "Die Number": 11,
+      "Is permanent": false,
+      "Title": "Impatient",
+      "Description": "-1 on Search and Sneak Checks for the day."
+    },
+    {
+      "Die Number": 12,
+      "Is permanent": false,
+      "Title": "REROLL",
+      "Description": "REROLL"
+    },
+    {
+      "Die Number": 13,
+      "Is permanent": false,
+      "Title": "Catch-A-Phrase",
+      "Description": "Your Vault Hunter is now desperate to popularize a stupid catch phrase they've just come up with."
+    },
+    {
+      "Die Number": 14,
+      "Is permanent": false,
+      "Title": "Four Hundred and Four",
+      "Description": "One of your non-current guns doesn't respawn."
+    },
+    {
+      "Die Number": 15,
+      "Is permanent": false,
+      "Title": "Your Hands Are Guns",
+      "Description": "Your currently equipped gun Fuses into the bones of your hands. You no longer have fingers, or the ability to grab things."
+    },
+    {
+      "Die Number": 16,
+      "Is permanent": false,
+      "Title": "REROLL",
+      "Description": "REROLL"
+    },
+    {
+      "Die Number": 17,
+      "Is permanent": false,
+      "Title": "Brain Freeze",
+      "Description": "-1 on Insight and Interact Checks for the day."
+    },
+    {
+      "Die Number": 18,
+      "Is permanent": false,
+      "Title": "The Best Policy",
+      "Description": "Your vault Hunter is now incapable of lying For the test of the day."
+    },
+    {
+      "Die Number": 19,
+      "Is permanent": false,
+      "Title": "Minor Issue",
+      "Description": "Your vault Hunter is now Four years old. All their stats are the same, but they look and speak like a four year old."
+    },
+    {
+      "Die Number": 20,
+      "Is permanent": false,
+      "Title": "You Are Claptrap",
+      "Description": "A bolt of lightning strikes you and you into a claptrap unit. All of your stats ave reduced by 2 and you have to Speak in an annoying voice until the end of the day."
+    },
+    {
+      "Die Number": 1,
+      "Is permanent": true,
+      "Title": "Bad Reputation",
+      "Description": "Word of how you fell in battle gets around. There's a 25% chance that any NPC you meet will have heard the embarrassing story of how you got beaten up, and will respect you less for it."
+    },
+    {
+      "Die Number": 2,
+      "Is permanent": true,
+      "Title": "How2English?",
+      "Description": "You forget 10% of your vocabulary -1 on Talk Checks."
+    },
+    {
+      "Die Number": 3,
+      "Is permanent": true,
+      "Title": "I had a Bad experience",
+      "Description": "You become terrified of the particular Enemy type who defeated you. In all future combats with this particular Enemy type, take -1 to all Accuracy Rolls"
+    },
+    {
+      "Die Number": 4,
+      "Is permanent": true,
+      "Title": "Trinket",
+      "Description": "Loss of sentimental item. Probably something important to the campaign."
+    },
+    {
+      "Die Number": 5,
+      "Is permanent": true,
+      "Title": "Least Favorite",
+      "Description": "The other play must determine your least favorite food/ music/fitm/book/whatever. That is now your Vault Hunter's FAVORITE thing in the world, and they will bring it up any time they can elegantly do so."
+    },
+    {
+      "Die Number": 6,
+      "Is permanent": true,
+      "Title": "Scar Tissue",
+      "Description": "Generates a horrific scar in the location where you took Damage. 25% chance to be recognized when entering a town."
+    },
+    {
+      "Die Number": 7,
+      "Is permanent": true,
+      "Title": "Touchy Feely",
+      "Description": "You have the insatiable urge to touch everything you see, including things you probably shouldn't. -1 on Interact Checks."
+    },
+    {
+      "Die Number": 8,
+      "Is permanent": true,
+      "Title": "Cool Eyepatch",
+      "Description": "Your character loses an eye and has to wear a badass eyepatch over the socket. You get a -2 to search checks, but a +3 to Interact Checks"
+    },
+    {
+      "Die Number": 9,
+      "Is permanent": true,
+      "Title": "Love and Loss",
+      "Description": "Your character is nursed back to health by an adorable, animal of the BM's choosing. The BM must then work the cute animal into the story, and then somehow tragically remove them within the next two sessions."
+    },
+    {
+      "Die Number": 10,
+      "Is permanent": true,
+      "Title": "Synapse Oops",
+      "Description": "Brain farts are now a medical condition you have. -1 on Insight Checks."
+    },
+    {
+      "Die Number": 11,
+      "Is permanent": true,
+      "Title": "Your Dad is Disappointed in You",
+      "Description": "Your dad hears about how you died. He is disappointed in you. Your mom is still proud of you though."
+    },
+    {
+      "Die Number": 12,
+      "Is permanent": true,
+      "Title": "Willful Ignorance",
+      "Description": "Your Vault Hunter refuses to believe they fell in battle and assumes everyone is misremembering the event."
+    },
+    {
+      "Die Number": 13,
+      "Is permanent": true,
+      "Title": "Riverdance",
+      "Description": "Metal clogs get stuck on your feet. -1 on Sneak Checks."
+    },
+    {
+      "Die Number": 14,
+      "Is permanent": true,
+      "Title": "Family Vengeance",
+      "Description": "Add \"JR\" to your character's name. You now your own Child, avenging the death of your parent."
+    },
+    {
+      "Die Number": 15,
+      "Is permanent": true,
+      "Title": "Crybaby",
+      "Description": "Death hurt a lot, and your Vault Hunter cries when they think about it."
+    },
+    {
+      "Die Number": 16,
+      "Is permanent": true,
+      "Title": "No Ships, Sherlock",
+      "Description": "Your trusty sleuthing cap got rakk poop on it. -1 on Search Checks."
+    },
+    {
+      "Die Number": 17,
+      "Is permanent": true,
+      "Title": "Fart Fartington",
+      "Description": "Your vault Hunter's name is now Fart Fartington. This can never be changed. If the Vault Hunter's name is already Fart Fartington, \"Fart Fartington\" becomes their new nickname. Their name would now be Fart \"Fart Fartington\" Fartington."
+    },
+    {
+      "Die Number": 18,
+      "Is permanent": true,
+      "Title": "18/20",
+      "Description": "Your depth perception got pretty deep. -1 on Traverse Checks."
+    },
+    {
+      "Die Number": 19,
+      "Is permanent": true,
+      "Title": "Unsteady Hands",
+      "Description": "Whenever you swap guns, roll a D20. On a 1, the gun flies out of your hands and lands 2 squares away."
+    },
+    {
+      "Die Number": 20,
+      "Is permanent": true,
+      "Title": "Godkiller",
+      "Description": "Your Vault Hunter blames the one TRULY responsible for their death: You. Your Vault Hunter now has a personal vendetta against you. The BM will insert you into the story somewhere and your Vault Hunter will do whatever is necessary to hunt you down and say some very harsh words."
+    }
+  ]
