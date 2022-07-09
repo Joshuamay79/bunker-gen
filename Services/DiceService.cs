@@ -4,7 +4,7 @@ public class DiceService
 
     public int Roll(DiceType diceType)
     {
-        return _random.Next(1, diceType);
+        return _random.Next(1, Convert.ToInt32(diceType));
     }
 }
 public enum DiceType

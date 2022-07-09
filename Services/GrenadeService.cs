@@ -2,23 +2,23 @@ using BunkerGen.Models;
 
 namespace BunkerGen.Services
 {
-    public class GrenadeLoaderService
+    public class GrenadeService
     {
         private List<GuildDie> GuildDice;
         private List<Grenade> Grenades;
         private List<Guild> Guilds;
         private readonly DiceService DiceService;
 
-        public static async Task<GrenadeLoaderService> BuildGrenadeLoaderService()
+        public static async Task<GrenadeService> BuildGrenadeLoaderService()
         {
             var gd = await JsonLoaderService.Load<List<GuildDie>>(".\\resources\\grenades\\grenade_guild.json");
             var s = await JsonLoaderService.Load<List<Grenade>>(".\\resources\\grenades\\grenade.json");
             var g = await JsonLoaderService.Load<List<Guild>>(".\\resources\\guilds\\guilds.json");
 
-            return new GrenadeLoaderService(gd, s, g);
+            return new GrenadeService(gd, s, g);
         }
 
-        private GrenadeLoaderService(List<GuildDie> guildDice, List<Grenade> grenades, List<Guild> guilds)
+        private GrenadeService(List<GuildDie> guildDice, List<Grenade> grenades, List<Guild> guilds)
         {
             GuildDice = guildDice;
             Grenades = grenades;

@@ -2,22 +2,22 @@ using BunkerGen.Models;
 
 namespace BunkerGen.Services
 {
-    public class ShieldLoaderService
+    public class ShieldService
     {
         private List<GuildDie> GuildDice;
         private List<Shield> Shields;
         private List<Guild> Guilds;
         private readonly DiceService DiceService;
 
-        public static async Task<ShieldLoaderService> BuildShieldLoaderService()
+        public static async Task<ShieldService> BuildShieldLoaderService()
         {
             var gd = await JsonLoaderService.Load<List<GuildDie>>(".\\resources\\shields\\shield_guild.json");
             var s = await JsonLoaderService.Load<List<Shield>>(".\\resources\\shields\\shield.json");
             var g = await JsonLoaderService.Load<List<Guild>>(".\\resources\\guilds\\guilds.json");
-            return new ShieldLoaderService(gd, s, g);
+            return new ShieldService(gd, s, g);
         }
 
-        private ShieldLoaderService(List<GuildDie> guildDice, List<Shield> shields, List<Guild> guilds)
+        private ShieldService(List<GuildDie> guildDice, List<Shield> shields, List<Guild> guilds)
         {
             GuildDice = guildDice;
             Shields = shields;

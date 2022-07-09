@@ -2,23 +2,23 @@ using BunkerGen.Models;
 
 namespace BunkerGen.Services
 {
-    public interface ILootProcessorService
+    public interface ILootService
     {
         List<Loot> Execute(int numberOfPiles);
     }
 
-    public class LootProcessorService : ILootProcessorService
+    public class LootService : ILootService
     {
         private readonly List<LootPile> LootPiles;
         private readonly DiceService DiceService;
 
 
-        public static async Task<LootProcessorService> BuildLootProcessorService()
+        public static async Task<LootService> BuildLootProcessorService()
         {
-            var lootPiles = await JsonLoaderService.Load<List<LootPile>>(".\\resources\\loot-drop.json");
-            return new LootProcessorService(lootPiles);
+            var lootPiles = await JsonLoaderService.Load<List<LootPile>>(".\\resources\\loot\\loot-drop.json");
+            return new LootService(lootPiles);
         }
-        private LootProcessorService(List<LootPile> lootDrops)
+        private LootService(List<LootPile> lootDrops)
         {
             LootPiles = lootDrops;
             DiceService = new DiceService();

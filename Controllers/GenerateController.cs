@@ -19,7 +19,7 @@ namespace BunkerGen.Controllers
         [Route("piles")]
         public async Task<List<Loot>> GetLootDrops(int piles)
         {
-            var g = await LootProcessorService.BuildLootProcessorService();
+            var g = await LootService.BuildLootProcessorService();
             var m = g.Execute(piles);
 
             return m;
@@ -29,7 +29,7 @@ namespace BunkerGen.Controllers
         [Route("relic")]
         public async Task<Relic> GetRelic()
         {
-            var s = await RelicLoaderService.BuildRelicLoaderService();
+            var s = await RelicService.BuildRelicLoaderService();
             var r = s.Execute();
 
             return r;
@@ -37,20 +37,64 @@ namespace BunkerGen.Controllers
 
         [HttpGet]
         [Route("shield")]
-        public async Task<Shield> GetShield(int level){
-            var r = await ShieldLoaderService.BuildShieldLoaderService();
+        public async Task<Shield> GetShield(int level)
+        {
+            var r = await ShieldService.BuildShieldLoaderService();
             var s = r.Execute(level);
 
             return s;
-        }        
+        }
 
         [HttpGet]
         [Route("grenade")]
-        public async Task<Grenade> GetGrenade(int level){
-            var r = await GrenadeLoaderService.BuildGrenadeLoaderService();
+        public async Task<Grenade> GetGrenade(int level)
+        {
+            var r = await GrenadeService.BuildGrenadeLoaderService();
             var s = r.Execute(level);
 
             return s;
+        }
+
+        [HttpGet]
+        [Route("gun")]
+        public async Task<Grenade> GetGun(int level)
+        {
+            throw new NotImplementedException();
+        }
+
+        [HttpGet]
+        [Route("potion")]
+        public async Task<Grenade> GetPotion()
+        {
+            throw new NotImplementedException();
+        }
+
+        [HttpGet]
+        [Route("cache-roll")]
+        public async Task<Grenade> GetCacheRoll(int cacheSize)
+        {
+            throw new NotImplementedException();
+        }
+
+        [HttpGet]
+        [Route("unassuming-chest")]
+        public async Task<Grenade> GetUnassumingChest()
+        {
+            throw new NotImplementedException();
+        }
+
+        [HttpGet]
+        [Route("dice-chest")]
+        public async Task<Grenade> GetDiceChest()
+        {
+            throw new NotImplementedException();
+        }
+
+        [HttpGet]
+        [Route("trauma")]
+        public async Task<Grenade> GetTrauma()
+        {
+            throw new NotImplementedException();
         }
     }
 }
