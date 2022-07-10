@@ -1,162 +1,162 @@
 [
-    {
-      "DieRange": [1,2,3,4,5],
-      "Name": "Common Tina Potion",
-      "Effect": "Roll 1d20 for bombass effect",
-      "Cost": 15,
-      "TinaPotion": "TRUE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [6,7,8,9,10],
-      "Name": "Common Health Potion",
-      "Effect": "Regens 1d8 Health",
-      "Cost": 20,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [11,12,13,14,15],
-      "Name": "Common Shield Potion",
-      "Effect": "Recharges 1d8 Shield",
-      "Cost": 15,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [16,17,18,19,20],
-      "Name": "Check Potion",
-      "Effect": "+5 to x Check for 1 hour",
-      "Cost": 20,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [21,22,23,24,25],
-      "Name": "Element Potion",
-      "Effect": "Protection from x Element for 2 turns",
-      "Cost": 15,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [26,27,28,29,30],
-      "Name": "Rare Tina Potion",
-      "Effect": "Roll 1d20+3 for bombass effect",
-      "Cost": 25,
-      "TinaPotion": "TRUE",
-      "TinaModifier": 3
-    },
-    {
-      "DieRange": [31,32,33,34,35],
-      "Name": "Rare Health Potion",
-      "Effect": "Regens 2d8+5 Health",
-      "Cost": 40,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [36,37,38,39,40],
-      "Name": "Rare Shield Potion",
-      "Effect": "Recharges 2d8+5 Shield",
-      "Cost": 30,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [41,42,43,44,45],
-      "Name": "Stat Potion",
-      "Effect": "+3 to Stat Mod for 1 hour",
-      "Cost": 40,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [46,47,48,49,50],
-      "Name": "Twofer Potion",
-      "Effect": "Gain 1d8+3 Health and Shield",
-      "Cost": 70,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [51,52,53,54,55],
-      "Name": "Epic Tina Potion",
-      "Effect": "Roll 1d20+5 for bombass effect",
-      "Cost": 80,
-      "TinaPotion": "TRUE",
-      "TinaModifier": 5
-    },
-    {
-      "DieRange": [56,57,58,59,60],
-      "Name": "Epic Health Potion",
-      "Effect": "Regens 3d8+10 Health",
-      "Cost": 100,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [61,62,63,64,65],
-      "Name": "Epic Shield Potion",
-      "Effect": "Recharges 3d8+10 Shield",
-      "Cost": 90,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [66,67,68,69,70],
-      "Name": "Lucky Potion",
-      "Effect": "Reroll 1 Die per Attack for 2 turns",
-      "Cost": 100,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [71,72,73,74,75],
-      "Name": "Invisibility Potion",
-      "Effect": "Become Cloaked for 3 turns",
-      "Cost": 120,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [76,77,78,79,80],
-      "Name": "Legendary Tina Potion",
-      "Effect": "Roll 1d20+10 for bombass effect",
-      "Cost": 200,
-      "TinaPotion": "TRUE",
-      "TinaModifier": 10
-    },
-    {
-      "DieRange": [81,82,83,84,85],
-      "Name": "Legendary Health Potion",
-      "Effect": "Regens 4d8+20 Health",
-      "Cost": 250,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [86,87,88,89,90],
-      "Name": "Legendary Shield Potion",
-      "Effect": "Recharges 4d8+20 Shield",
-      "Cost": 230,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [91,92,93,94,95],
-      "Name": "Fumble Potion Potion",
-      "Effect": "All 1's rolled become 20's for 2 hours",
-      "Cost": 250,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    },
-    {
-      "DieRange": [96,97,98,99,100],
-      "Name": "Gold Farmer Potion",
-      "Effect": "+2d6 to all Cache Rolls for 2 hours",
-      "Cost": 270,
-      "TinaPotion": "FALSE",
-      "TinaModifier": 0
-    }
-  ]
+  {
+    "DieRange": [1, 2, 3, 4, 5],
+    "Name": "Common Tina Potion",
+    "Effect": "Roll 1d20 for bombass effect",
+    "Cost": 15,
+    "TinaPotion": true,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [6, 7, 8, 9, 10],
+    "Name": "Common Health Potion",
+    "Effect": "Regens 1d8 Health",
+    "Cost": 20,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [11, 12, 13, 14, 15],
+    "Name": "Common Shield Potion",
+    "Effect": "Recharges 1d8 Shield",
+    "Cost": 15,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [16, 17, 18, 19, 20],
+    "Name": "Check Potion",
+    "Effect": "+5 to x Check for 1 hour",
+    "Cost": 20,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [21, 22, 23, 24, 25],
+    "Name": "Element Potion",
+    "Effect": "Protection from x Element for 2 turns",
+    "Cost": 15,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [26, 27, 28, 29, 30],
+    "Name": "Rare Tina Potion",
+    "Effect": "Roll 1d20+3 for bombass effect",
+    "Cost": 25,
+    "TinaPotion": true,
+    "TinaModifier": 3
+  },
+  {
+    "DieRange": [31, 32, 33, 34, 35],
+    "Name": "Rare Health Potion",
+    "Effect": "Regens 2d8+5 Health",
+    "Cost": 40,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [36, 37, 38, 39, 40],
+    "Name": "Rare Shield Potion",
+    "Effect": "Recharges 2d8+5 Shield",
+    "Cost": 30,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [41, 42, 43, 44, 45],
+    "Name": "Stat Potion",
+    "Effect": "+3 to Stat Mod for 1 hour",
+    "Cost": 40,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [46, 47, 48, 49, 50],
+    "Name": "Twofer Potion",
+    "Effect": "Gain 1d8+3 Health and Shield",
+    "Cost": 70,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [51, 52, 53, 54, 55],
+    "Name": "Epic Tina Potion",
+    "Effect": "Roll 1d20+5 for bombass effect",
+    "Cost": 80,
+    "TinaPotion": true,
+    "TinaModifier": 5
+  },
+  {
+    "DieRange": [56, 57, 58, 59, 60],
+    "Name": "Epic Health Potion",
+    "Effect": "Regens 3d8+10 Health",
+    "Cost": 100,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [61, 62, 63, 64, 65],
+    "Name": "Epic Shield Potion",
+    "Effect": "Recharges 3d8+10 Shield",
+    "Cost": 90,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [66, 67, 68, 69, 70],
+    "Name": "Lucky Potion",
+    "Effect": "Reroll 1 Die per Attack for 2 turns",
+    "Cost": 100,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [71, 72, 73, 74, 75],
+    "Name": "Invisibility Potion",
+    "Effect": "Become Cloaked for 3 turns",
+    "Cost": 120,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [76, 77, 78, 79, 80],
+    "Name": "Legendary Tina Potion",
+    "Effect": "Roll 1d20+10 for bombass effect",
+    "Cost": 200,
+    "TinaPotion": true,
+    "TinaModifier": 10
+  },
+  {
+    "DieRange": [81, 82, 83, 84, 85],
+    "Name": "Legendary Health Potion",
+    "Effect": "Regens 4d8+20 Health",
+    "Cost": 250,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [86, 87, 88, 89, 90],
+    "Name": "Legendary Shield Potion",
+    "Effect": "Recharges 4d8+20 Shield",
+    "Cost": 230,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [91, 92, 93, 94, 95],
+    "Name": "Fumble Potion Potion",
+    "Effect": "All 1's rolled become 20's for 2 hours",
+    "Cost": 250,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  },
+  {
+    "DieRange": [96, 97, 98, 99, 100],
+    "Name": "Gold Farmer Potion",
+    "Effect": "+2d6 to all Cache Rolls for 2 hours",
+    "Cost": 270,
+    "TinaPotion": false,
+    "TinaModifier": 0
+  }
+]

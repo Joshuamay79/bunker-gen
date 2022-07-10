@@ -21,5 +21,19 @@ namespace BunkerGen.Services
             TinaPotions = tinaPotions;
             DiceService = diceService;
         }
+
+        public Potion Execute()
+        {
+            var p = DiceService.Roll(DiceType.D20);
+            var potion = Potions.First(t => t.DieRange.Contains(p));
+            if (potion.TinaPotion)
+            {
+                var tp = DiceService.Roll(DiceType.D20) + potion.TinaModifier;
+                var tPotion = TinaPotions.First(t => t.DieNumber == tp);
+                potion.Name = tPotion.Name;
+                potion.Effect = tPotion.Effect;
+            }
+            return potion;
+        }
     }
 }

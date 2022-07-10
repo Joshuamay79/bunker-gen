@@ -84,9 +84,12 @@ namespace BunkerGen.Controllers
 
         [HttpGet]
         [Route("potion")]
-        public async Task<Grenade> GetPotion()
+        public async Task<Potion> GetPotion()
         {
-            throw new NotImplementedException();
+            var service = await PotionService.BuildPotionService(DiceService);
+            var p = service.Execute();
+
+            return p;
         }
 
         [HttpGet]
