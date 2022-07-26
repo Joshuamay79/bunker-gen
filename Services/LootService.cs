@@ -8,7 +8,7 @@ namespace BunkerGen.Services
         private readonly DiceService DiceService;
 
 
-        public static async Task<LootService> BuildLootProcessorService(DiceService diceService)
+        public static async Task<LootService> BuildLootService(DiceService diceService)
         {
             var lootPiles = await JsonLoaderService.Load<List<LootPile>>(".\\resources\\loot\\loot-drop.json");
             return new LootService(diceService, lootPiles);

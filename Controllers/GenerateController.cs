@@ -39,7 +39,7 @@ namespace BunkerGen.Controllers
         [Route("piles")]
         public async Task<List<Loot>> GetLootDrops(int piles)
         {
-            var g = await LootService.BuildLootProcessorService(DiceService);
+            var g = await LootService.BuildLootService(DiceService);
             var m = g.Execute(piles);
 
             return m;
