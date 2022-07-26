@@ -1,0 +1,34 @@
+{
+    "1": {
+        "1": "common",
+        "2": ["common", "element"],
+        "3": ["common", "element"],
+        "4": "uncommon",
+        "5": ["uncommon", "element"],
+        "6": "rare"
+    },
+    "2": {
+        "1": "common",
+        "2": ["common", "element"],
+        "3": "uncommon",
+        "4": ["uncommon", "element"],
+        "5": ["rare", "element"],
+        "6": "epic"
+    },
+    "3": {
+        "1": ["uncommon", "element"],
+        "2": "rare",
+        "3": ["rare", "element"],
+        "4": "epic",
+        "5": ["epic", "element"],
+        "6": ["legendary", "element"]
+    },
+    "4": {
+        "1": ["rare", "element"],
+        "2": ["rare", "element"],
+        "3": ["epic", "element"],
+        "4": ["epic", "element"],
+        "5": ["legendary", "element"],
+        "6": ["legendary", "element"]
+    }
+}

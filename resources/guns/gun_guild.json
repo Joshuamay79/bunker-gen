@@ -1,0 +1,169 @@
+[
+  [
+    {
+      "guildId": 2,
+      "GuildName": "Alas!",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "+1 DMG Mod" },
+        { "level": 2, "name": "uncommon", "bonus": "+2 DMG Mod" },
+        { "level": 3, "name": "rare", "bonus": "+3 DMG Mod" },
+        { "level": 4, "name": "epic", "bonus": "+3 DMG Mod" },
+        { "level": 5, "name": "legendary", "bonus": "+4 DMG Mod" }
+      ],
+      "hasElement": false,
+      "gunInfo": "Increased Damage"
+    },
+    {
+      "guildId": 3,
+      "GuildName": "Skuldugger",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "+2 DMG Mod, Overheat 1d4" },
+        { "level": 2, "name": "uncommon", "bonus": "+3 DMG Mod, Overheat 1d6" },
+        { "level": 3, "name": "rare", "bonus": "+4 DMG Mod, Overheat 1d8" },
+        { "level": 4, "name": "epic", "bonus": "+5 DMG Mod, Overheat 1d10" },
+        {
+          "level": 5,
+          "name": "legendary",
+          "bonus": "+6 DMG Mod, Overheat 1d12"
+        }
+      ],
+      "hasElement": true,
+      "gunInfo": "Overheat: When taking a Reload Action, roll the dice value specified and take the result as Incendiary Damage. Increased Damage"
+    },
+    {
+      "guildId": 4,
+      "GuildName": "Dahlia",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "Burst: +1 Hit" },
+        {
+          "level": 2,
+          "name": "uncommon",
+          "bonus": "Burst: +1 Hit, +1 ACC Mod"
+        },
+        { "level": 3, "name": "rare", "bonus": "Burst: +1 Hit, +2 ACC Mod" },
+        { "level": 4, "name": "epic", "bonus": "Burst: +1 Hit, +3 ACC Mod" },
+        {
+          "level": 5,
+          "name": "legendary",
+          "bonus": "Burst: +1 Hit, +4 ACC Mod"
+        }
+      ],
+      "hasElement": true,
+      "gunInfo": "Burst: Adds an additional Hit to each Attack. Increased Accuracy."
+    },
+    {
+      "guildId": 5,
+      "GuildName": "Blackpowder",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "+2 ACC Mod, +2 Crit Damage" },
+        {
+          "level": 2,
+          "name": "uncommon",
+          "bonus": "+2 ACC Mod, +3 Crit Damage"
+        },
+        { "level": 3, "name": "rare", "bonus": "+2 ACC Mod, +4 Crit Damage" },
+        { "level": 4, "name": "epic", "bonus": "+2 ACC Mod, +5 Crit Damage" },
+        {
+          "level": 5,
+          "name": "legendary",
+          "bonus": "+2 ACC Mod, +6 Crit Damage"
+        }
+      ],
+      "hasElement": false,
+      "gunInfo": "Increased Accuracy. Highly increased Crit Damage."
+    },
+    {
+      "guildId": 6,
+      "GuildName": "Malefactor",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "Elemental Roll, -2 DMG Mod" },
+        {
+          "level": 2,
+          "name": "uncommon",
+          "bonus": "Elemental Roll, -1 DMG Mod"
+        },
+        { "level": 3, "name": "rare", "bonus": "+10% Element Roll" },
+        { "level": 4, "name": "epic", "bonus": "+15% Element Roll" },
+        { "level": 5, "name": "legendary", "bonus": "+20% Element Roll" }
+      ],
+      "hasElement": true,
+      "gunInfo": "Roll for Elemental Damage, Reduced overall Damage at lower Rarities"
+    },
+    {
+      "guildId": 7,
+      "GuildName": "Hyperius",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "+1 ACC Mod, -2 DMG Mod" },
+        { "level": 2, "name": "uncommon", "bonus": "+2 ACC Mod, -2 DMG Mod" },
+        { "level": 3, "name": "rare", "bonus": "+3 ACC Mod, -2 DMG Mod" },
+        { "level": 4, "name": "epic", "bonus": "+4 ACC Mod, -2 DMG Mod" },
+        { "level": 5, "name": "legendary", "bonus": "+5 ACC Mod, -2 DMG Mod" }
+      ],
+      "hasElement": true,
+      "gunInfo": "Increased Accuracy. Reduced overall Damage"
+    },
+    {
+      "guildId": 9,
+      "GuildName": "Feriore",
+      "rarities": [
+        {
+          "level": 1,
+          "name": "common",
+          "bonus": "Swap/Reload: 1d4 Grenade Damage, -3 ACC Mod"
+        },
+        {
+          "level": 2,
+          "name": "uncommon",
+          "bonus": "Swap/Reload: 1d6 Grenade Damage, -3 ACC Mod"
+        },
+        {
+          "level": 3,
+          "name": "rare",
+          "bonus": "Swap/Reload: 1d8 Grenade Damage, -2 ACC Mod"
+        },
+        {
+          "level": 4,
+          "name": "epic",
+          "bonus": "Swap/Reload: 1d10 Grenade Damage, -2 ACC Mod"
+        },
+        {
+          "level": 5,
+          "name": "legendary",
+          "bonus": "Swap/Reload: 1d12 Grenade Damage, -1 ACC Mod"
+        }
+      ],
+      "hasElement": true,
+      "gunInfo": "Less Accuracy. Swap/Reload: When taking a Swap Gun or Reload action, the gun is Thrown and deals Damage like a grenade"
+    },
+    {
+      "guildId": 10,
+      "GuildName": "Torgue",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "Splash, -4 ACC Mod" },
+        { "level": 2, "name": "uncommon", "bonus": "Splash, -3 ACC Mod" },
+        { "level": 3, "name": "rare", "bonus": "Splash, -2 ACC Mod" },
+        { "level": 4, "name": "epic", "bonus": "Splash, -1 ACC Mod" },
+        { "level": 5, "name": "legendary", "bonus": "Splash" }
+      ],
+      "hasElement": true,
+      "gunInfo": "Less Accuracy. Splash."
+    },
+    {
+      "guildId": 11,
+      "GuildName": "Stoker",
+      "rarities": [
+        { "level": 1, "name": "common", "bonus": "Extra Attack, -3 ACC Mod" },
+        { "level": 2, "name": "uncommon", "bonus": "Extra Attack, -2 ACC Mod" },
+        { "level": 3, "name": "rare", "bonus": "Extra Attack, -1 ACC Mod" },
+        { "level": 4, "name": "epic", "bonus": "Extra Attack" },
+        {
+          "level": 5,
+          "name": "legendary",
+          "bonus": "Extra Attack, Extra Movement"
+        }
+      ],
+      "hasElement": true,
+      "gunInfo": "Less Accuracy. Gain an Extra Attack Action"
+    }
+  ]
+]

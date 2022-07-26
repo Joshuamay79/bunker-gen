@@ -1,0 +1,152 @@
+[
+    {
+      "DieNumber": 1,
+      "Name": "Golden Gulp",
+      "Effect": "Shh. It's just pee, don't tell anyone."
+    },
+    {
+      "DieNumber": 2,
+      "Name": "Deadly Horrible Potion of Death",
+      "Effect": "Kills you dead in exactly an hour. Can only be cured by doing a hundo pushups."
+    },
+    {
+      "DieNumber": 3,
+      "Name": "One Liner Juice",
+      "Effect": "After drinking this, everything you do for the next hour has to be followed with a cool punny one liner, or you spasm, taking 5 Damageamage."
+    },
+    {
+      "DieNumber": 4,
+      "Name": "Best Drink Ever",
+      "Effect": "The single best thing you ever have or ever will taste. Even if you get another one of these potions it'll never taste as good as the first, so you're sorta bummed forever that nothing tastes as good. This behaves like a permanent trauma."
+    },
+    {
+      "DieNumber": 5,
+      "Name": "What If We Were Girlfriends",
+      "Effect": "The next two people to drink this juice see what their would be like if they moved their beds together."
+    },
+    {
+      "DieNumber": 6,
+      "Name": "Gotta Sing",
+      "Effect": "You have to sing everything you say the next hour or until the BM gets bored."
+    },
+    {
+      "DieNumber": 7,
+      "Name": "Friday Freak",
+      "Effect": "The next two people to drink this swap bodies for the rest of the session."
+    },
+    {
+      "DieNumber": 8,
+      "Name": "Love Potion Number 69 (nice)",
+      "Effect": "When you drink this potion, the next person you smooch will love you for exactly sixty-nine (real life) seconds. Once the 69 seconds are up, they'll hate you with the exact same ferocity with which they just loved you."
+    },
+    {
+      "DieNumber": 9,
+      "Name": "Truth Serum",
+      "Effect": "You can only tell the truth for the rest session."
+    },
+    {
+      "DieNumber": 10,
+      "Name": "No Curses Plz",
+      "Effect": "If the drinker curses anytime for the rest session, they take 5 damage."
+    },
+    {
+      "DieNumber": 11,
+      "Name": "Gotta Dance",
+      "Effect": "You can't stop dancing for ten minutes. When taking movement actions, specifically describe what sick steps you put down."
+    },
+    {
+      "DieNumber": 12,
+      "Name": "Big Booty Potion",
+      "Effect": "Makes the booty grow 300%. Too Juicy. I die. [Have fun making up an effect for this, BM]"
+    },
+    {
+      "DieNumber": 13,
+      "Name": "Vommodrink",
+      "Effect": "Makes you vomit real bad for thirty seconds. [Create a corrosive puddle in all adjacent squares every turn for however long the BM hates you)"
+    },
+    {
+      "DieNumber": 14,
+      "Name": "Stank Drank",
+      "Effect": "Anyone who drinks this smells so bad that people gotta get as far away them as possible for a half hour. [Allies cannot move through any squares within a Range of 2 around you.]"
+    },
+    {
+      "DieNumber": 15,
+      "Name": "Do U Feel Lucky",
+      "Effect": "Has a chance to give the drinker 20 HP or deal 20 Health Damage."
+    },
+    {
+      "DieNumber": 16,
+      "Name": "Bullet Burp",
+      "Effect": "For twenty minutes, you burp uncontrollably, causing bullets to come out and do ld4 Damage each to anyone adjacent. DO NOT KISS ANYONE AFTER DRINKING THIS!"
+    },
+    {
+      "DieNumber": 17,
+      "Name": "Baddie Juice",
+      "Effect": "You immediately take the form of the one person you hate the most. Wears off after an hour."
+    },
+    {
+      "DieNumber": 18,
+      "Name": "Do You Like Me Y/N",
+      "Effect": "Anyone drinking this had to tell their true feelings about the BM"
+    },
+    {
+      "DieNumber": 19,
+      "Name": "Roshambo",
+      "Effect": "Exactly once, instead of doing a proper combat against an enemy, you can play rock-paper-scissors with the BM. If you lose, your character is DEAD FOREVER or at least gets like 3 trauma."
+    },
+    {
+      "DieNumber": 20,
+      "Name": "Punch Drunk",
+      "Effect": "You have to Melee Attack someone every hour or your heart stops, but your Melee Attacks deal a bonus 1d12 Damage."
+    },
+    {
+      "DieNumber": 21,
+      "Name": "Butt Farts",
+      "Effect": "Once, during the remainder of the session, you have the ability to do a fart so big it does 2d8 Damage to everyone in 2 squares Range."
+    },
+    {
+      "DieNumber": 22,
+      "Name": "Haterade",
+      "Effect": "Anyone who drinks this makes everyone around em so mad that they gotta beat the puss out of them for at least a half hour. [all enemies make their next Attack against you, probably]."
+    },
+    {
+      "DieNumber": 23,
+      "Name": "Fancy Feats",
+      "Effect": "Gives you a fancy voice for an hour [+10 to Impersonation check]"
+    },
+    {
+      "DieNumber": 24,
+      "Name": "2 Sexy",
+      "Effect": "Makes you reeeeeally alluring to one type of creature of the BM's choice. [Gain +5 Talk and Interact Checks for that enemy type]"
+    },
+    {
+      "DieNumber": 25,
+      "Name": "Parent Trap",
+      "Effect": "Whoever drinks this will instancetly create a baby with the next person they smooch. The baby will just pop into existance outta thins air."
+    },
+    {
+      "DieNumber": 26,
+      "Name": "Scrappy",
+      "Effect": "Drinkin this gives you a little sidekick who looks like a smaller version of you. They're real irritating but they give you an extra Action every turn and they love you, bot they have HP. y Ou Of control them and do their voice, whoever wants to."
+    },
+    {
+      "DieNumber": 27,
+      "Name": "Not Today",
+      "Effect": "The next time you would die... You don't. Ignore the would-kill-you damage and get your life together."
+    },
+    {
+      "DieNumber": 28,
+      "Name": "Liquid Confidence",
+      "Effect": "Adjacent allies gain +2 to all Checks."
+    },
+    {
+      "DieNumber": 29,
+      "Name": "Good Touch",
+      "Effect": "Your Melee Attacks heal targets."
+    },
+    {
+      "DieNumber": 30,
+      "Name": "Tina Tincture",
+      "Effect": "Makes you sound like Tiny Tina, your main man [control one non-Boss Enemy during the encounter]."
+    }
+  ]

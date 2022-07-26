@@ -1,0 +1,305 @@
+[
+    {
+        "guildId":1, "GuildName":"Ashen",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":15,
+        "effects":"Fast Recharge Rate"
+    },
+    {
+        "guildId":1, "GuildName":"Ashen",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":55,
+        "recharge":20,
+        "effects":"Fast Recharge Rate"
+    },
+    {
+        "guildId":1, "GuildName":"Ashen",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":25,
+        "effects":"Fast Recharge Rate"
+    },
+    {
+        "guildId":1, "GuildName":"Ashen",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":70,
+        "recharge":15,
+        "effects":"Gain +10 max Health and +3 Melee Damage while equipped"
+    },
+    {
+        "guildId":1, "GuildName":"Ashen",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":60,
+        "recharge":10,
+        "effects":"Gain +30 max Health and +10 Health Regen while equipped"
+    },
+
+
+
+    
+    {
+        "guildId":2, "GuildName":"Alas!",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"1d4 Shock Resistance"
+    },
+    {
+        "guildId":2, "GuildName":"Alas!",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":55,
+        "recharge":20,
+        "effects":"1d6 Shock Resistance"
+    },
+    {
+        "guildId":2, "GuildName":"Alas!",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":20,
+        "effects":"1d10 Shock Resistance"
+    },
+    {
+        "guildId":2, "GuildName":"Alas!",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":60,
+        "recharge":10,
+        "effects":"Roll %s for each incoming Attack. On a 60%+, take half Damage"
+    },
+    {
+        "guildId":2, "GuildName":"Alas!",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":0,
+        "recharge":0,
+        "effects":"Roll %s for each incoming Attack. On a 70%+, take no Damage"
+    },
+
+
+    
+    {
+        "guildId":4, "GuildName":"Dahlia",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"1d4 Corrosive Resistance"
+    },
+    {
+        "guildId":4, "GuildName":"Dahlia",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":55,
+        "recharge":15,
+        "effects":"1d6 Corrosive Resistance"
+    },
+    {
+        "guildId":4, "GuildName":"Dahlia",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":75,
+        "recharge":20,
+        "effects":"1d10 Corrosive Resistance"
+    },
+    {
+        "guildId":4, "GuildName":"Dahlia",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":80,
+        "recharge":10,
+        "effects":"When depleated during an encounter, drops 20 gold"
+    },
+    {
+        "guildId":4, "GuildName":"Dahlia",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":80,
+        "recharge":15,
+        "effects":"When depleated, spawns 3 grenades into adjacent squares that each deal 3d6 Shock Damage"
+    },
+
+
+    
+    {
+        "guildId":9, "GuildName":"Feriore",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"1d4 Health Regen per Recharge"
+    },
+    {
+        "guildId":9, "GuildName":"Feriore",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":50,
+        "recharge":15,
+        "effects":"1d6 Health Regen per Recharge"
+    },
+    {
+        "guildId":9, "GuildName":"Feriore",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":20,
+        "effects":"1d8 Health Regen per Recharge"
+    },
+    {
+        "guildId":9, "GuildName":"Feriore",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":70,
+        "recharge":20,
+        "effects":"Recharge 5 Shield at the start of each turn"
+    },
+    {
+        "guildId":9, "GuildName":"Feriore",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":60,
+        "recharge":20,
+        "effects":"When depleated, toss like a grenade, dealing 3d8 Damage then returning"
+    },
+
+
+    
+    {
+        "guildId":6, "GuildName":"Malefactor",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"When depleated, 1d6 Shock Damage to adjacent targets"
+    },
+    {
+        "guildId":6, "GuildName":"Malefactor",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":50,
+        "recharge":15,
+        "effects":"When depleated, 2d6 Shock Damage to adjacent targets"
+    },
+    {
+        "guildId":6, "GuildName":"Malefactor",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":20,
+        "effects":"When depleated, 3d6 Shock Damage to adjacent targets"
+    },
+    {
+        "guildId":6, "GuildName":"Malefactor",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":70,
+        "recharge":15,
+        "effects":"When depleated, pulls target up to 3 squares away into an adjacent square, then deals 4d6 Shock Damage to adjacent targets"
+    },
+    {
+        "guildId":6, "GuildName":"Malefactor",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":80,
+        "recharge":15,
+        "effects":"Deals 2d6 Incendiary Damage to adjacent squares while depleated"
+    },
+
+
+    
+    {
+        "guildId":8, "GuildName":"Pangoblin",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":40,
+        "recharge":5,
+        "effects":"High Capacity"
+    },
+    {
+        "guildId":8, "GuildName":"Pangoblin",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":60,
+        "recharge":10,
+        "effects":"High Capacity"
+    },
+    {
+        "guildId":8, "GuildName":"Pangoblin",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":20,
+        "recharge":20,
+        "effects":"High Capacity"
+    },
+    {
+        "guildId":8, "GuildName":"Pangoblin",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":100,
+        "recharge":20,
+        "effects":"Reduce Movement to 2 squares unless depleated"
+    },
+    {
+        "guildId":8, "GuildName":"Pangoblin",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":60,
+        "recharge":10,
+        "effects":"Gain +4 DMG Mod to Ranged Attacks while not depleated"
+    },
+
+
+    
+    {
+        "guildId":11, "GuildName":"Stoker",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"When depleated, 1d6 Incendiary Damage to adjacent rargets"
+    },
+    {
+        "guildId":11, "GuildName":"Stoker",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":50,
+        "recharge":15,
+        "effects":"When depleated, 2d6 Incendiary Damage to adjacent targets"
+    },
+    {
+        "guildId":11, "GuildName":"Stoker",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":20,
+        "effects":"When depleated, 3d6 Incendiary Damage to adjacent targets"
+    },
+    {
+        "guildId":11, "GuildName":"Stoker",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":70,
+        "recharge":15,
+        "effects":"Shock Damage Recharges the Shield instead of Damaging it"
+    },
+    {
+        "guildId":11, "GuildName":"Stoker",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":80,
+        "recharge":15,
+        "effects":"If you take 10 or more Damage from an attack, launches 3 Corrosive Spikes at the target. Each spike deals 1d6 Corrosive Damage"
+    },
+
+
+    
+
+    {
+        "guildId":10, "GuildName":"Torgue",
+        "levelRange":[1,2,3,4,5,6],
+        "capacity":30,
+        "recharge":10,
+        "effects":"Gain 10 max Health"
+    },
+    {
+        "guildId":10, "GuildName":"Torgue",
+        "levelRange":[7,8,9,10,11,12],
+        "capacity":50,
+        "recharge":15,
+        "effects":"Gains 20 max Health"
+    },
+    {
+        "guildId":10, "GuildName":"Torgue",
+        "levelRange":[13,14,15,16,17,18],
+        "capacity":70,
+        "recharge":20,
+        "effects":"Gain 30 Max Health"
+    },
+    {
+        "guildId":10, "GuildName":"Torgue",
+        "levelRange":[19,20,21,22,23,24],
+        "capacity":75,
+        "recharge":15,
+        "effects":"Insults an Enemy as Mr. Torgue each turn, dealing 1d4 Psychic Mockery Damage (basically just health damage, but to your squishy brain) and Taunting the Enemy"
+    },
+    {
+        "guildId":10, "GuildName":"Torgue",
+        "levelRange":[25,26,27,28,29,30],
+        "capacity":80,
+        "recharge":15,
+        "effects":"When depleated, creates a 3x3 square area blast dealing 3d6 Explosive Damage and causing Knockback"
+    }
+]

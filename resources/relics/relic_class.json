@@ -1,0 +1,42 @@
+[
+  {
+    "DieNumber": 1,
+    "VhClass": "Assassin"
+  },
+  {
+    "DieNumber": 2,
+    "VhClass": "Berserker"
+  },
+  {
+    "DieNumber": 3,
+    "VhClass": "Commando"
+  },
+  {
+    "DieNumber": 4,
+    "VhClass": "Gunzerker"
+  },
+  {
+    "DieNumber": 5,
+    "VhClass": "Hunter"
+  },
+  {
+    "DieNumber": 6,
+    "VhClass": "Mecromancer"
+  },
+  {
+    "DieNumber": 7,
+    "VhClass": "Psycho"
+  },
+  {
+    "DieNumber": 8,
+    "VhClass": "Siren"
+  },
+  {
+    "DieNumber": 9,
+    "VhClass": "Soldier"
+  },
+  {
+    "DieNumber": 10,
+    "VhClass": "Any"
+  }
+]

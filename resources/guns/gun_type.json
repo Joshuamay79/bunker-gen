@@ -1,0 +1,493 @@
+[
+  {
+    "DieNumber": 1,
+    "GunType": "Pistol",
+    "bonus": "",
+    "Guilds": [ // IGuildDie
+      { "DieNumber": 1, "GuildId": 1, "GuildName":"" }, // alas
+      { "DieNumber": 2, "GuildId": 1, "GuildName":"" }, // dah
+      { "DieNumber": 3, "GuildId": 1, "GuildName":"" }, // hype
+      { "DieNumber": 4, "GuildId": 1, "GuildName":"" }, // male
+      { "DieNumber": 5, "GuildId": 1, "GuildName":"" }, // fer
+      { "DieNumber": 6, "GuildId": 1, "GuildName":"" }, // stok
+      { "DieNumber": 7, "GuildId": 1, "GuildName":"" }, // tor
+      { "DieNumber": 8, "GuildId": 1, "GuildName":"" } // black
+    ],
+    "stats": [
+      {
+        "gunId": 2,
+        "name": "pistol",
+        "level": "1-6",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 3,
+        "ac16+_crit": 0,
+        "damage": "2d4",
+        "range": 5
+      },
+      {
+        "gunId": 2,
+        "name": "pistol",
+        "level": "7-12",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 3,
+        "ac16+_crit": 1,
+        "damage": "1d6",
+        "range": 5
+      },
+      {
+        "gunId": 2,
+        "name": "pistol",
+        "level": "13-18",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "2d6",
+        "range": 5
+      },
+      {
+        "gunId": 2,
+        "name": "pistol",
+        "level": "19-24",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 1,
+        "ac16+_crit": 2,
+        "damage": "2d8",
+        "range": 5
+      },
+      {
+        "gunId": 2,
+        "name": "pistol",
+        "level": "25-30",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 2,
+        "damage": "2d8",
+        "range": 5
+      }
+    ]
+  },
+  {
+    "DieNumber": 2,
+    "GunType": "submachine gun",
+    "bonus": "",
+    "Guilds": [
+      { "DieNumber": 1, "GuildId": 1, "GuildName":"" }, // dah
+      { "DieNumber": 2, "GuildId": 1, "GuildName":"" }, // hyp
+      { "DieNumber": 3, "GuildId": 1, "GuildName":"" }, // male
+      { "DieNumber": 4, "GuildId": 1, "GuildName":"" }, // fer
+      { "DieNumber": 5, "GuildId": 1, "GuildName":"" }, // tor
+      { "DieNumber": 6, "GuildId": 1, "GuildName":"" }, // dah
+      { "DieNumber": 7, "GuildId": 1, "GuildName":"" }, // hyp
+      { "DieNumber": 8, "GuildId": 1, "GuildName":"" } // mal
+    ],
+    "stats": [
+      {
+        "gunId": 3,
+        "name": "submachine gun",
+        "level": "1-6",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 3,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 5,
+        "ac16+_crit": 0,
+        "damage": "1d4",
+        "range": 5
+      },
+      {
+        "gunId": 3,
+        "name": "submachine gun",
+        "level": "7-12",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 4,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 5,
+        "ac16+_crit": 1,
+        "damage": "2d4",
+        "range": 5
+      },
+      {
+        "gunId": 3,
+        "name": "submachine gun",
+        "level": "13-18",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 3,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 5,
+        "ac16+_crit": 1,
+        "damage": "1d6",
+        "range": 5
+      },
+      {
+        "gunId": 3,
+        "name": "submachine gun",
+        "level": "19-24",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 4,
+        "ac16+_crit": 1,
+        "damage": "2d6",
+        "range": 5
+      },
+      {
+        "gunId": 3,
+        "name": "submachine gun",
+        "level": "25-30",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 2,
+        "ac8-15_hit": 3,
+        "ac8-15_crit": 2,
+        "ac16+_hit": 5,
+        "ac16+_crit": 2,
+        "damage": "1d10",
+        "range": 5
+      }
+    ]
+  },
+  {
+    "DieNumber": 3,
+    "GunType": "shotgun",
+    "bonus": "If Range 2 or Less: +2 Damage",
+    "Guilds": [
+      { "DieNumber": 1, "GuildId": 1, "GuildName":"Hyperius" }, 
+      { "DieNumber": 2, "GuildId": 1, "GuildName":"Malefactor" },
+      { "DieNumber": 3, "GuildId": 1, "GuildName":"Skuldugger" },
+      { "DieNumber": 4, "GuildId": 1, "GuildName":"Stoker" }, 
+      { "DieNumber": 5, "GuildId": 1, "GuildName":"Alas!" }, 
+      { "DieNumber": 6, "GuildId": 1, "GuildName":"Dahlia" },
+      { "DieNumber": 7, "GuildId": 1, "GuildName":"Blackpowder" }, 
+      { "DieNumber": 8, "GuildId": 1, "GuildName":"Feriore" } 
+    ],
+    "stats": [
+      {
+        "gunId": 4,
+        "name": "shotgun",
+        "level": "1-6",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 1,
+        "damage": "1d8",
+        "range": 4
+      },
+      {
+        "gunId": 4,
+        "name": "shotgun",
+        "level": "7-12",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "2d8",
+        "range": 4
+      },
+      {
+        "gunId": 4,
+        "name": "shotgun",
+        "level": "13-18",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 1,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 2,
+        "damage": "1d8",
+        "range": 4
+      },
+      {
+        "gunId": 4,
+        "name": "shotgun",
+        "level": "19-24",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "2d10",
+        "range": 4
+      },
+      {
+        "gunId": 4,
+        "name": "shotgun",
+        "level": "25-30",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 1,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 2,
+        "damage": "1d12",
+        "range": 4
+      }
+    ]
+  },
+  {
+    "DieNumber": 4,
+    "GunType": "combat rifle",
+    "bonus": "",
+    "Guilds": [
+      { "DieNumber": 1, "GuildId": 3 , "GuildName":"Skuldugger"}, 
+      { "DieNumber": 2, "GuildId": 4, "GuildName":"Dahlia" },
+      { "DieNumber": 3, "GuildId": 5, "GuildName":"Blackpowder" },
+      { "DieNumber": 4, "GuildId": 10, "GuildName":"Torgue" }, 
+      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" }, 
+      { "DieNumber": 6, "GuildId": 3, "GuildName":"Skuldugger" },
+      { "DieNumber": 7, "GuildId": 4, "GuildName":"Dahlia" }, 
+      { "DieNumber": 8, "GuildId": 5, "GuildName":"Blackpowder" }
+    ],
+    "stats": [
+      {
+        "gunId": 1,
+        "name": "combat rifle",
+        "level": "1-6",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 3,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 3,
+        "ac16+_crit": 1,
+        "damage": "1d6",
+        "range": 6
+      },
+      {
+        "gunId": 1,
+        "name": "combat rifle",
+        "level": "7-12",
+        "ac2-7_hit": 2,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 3,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "1d8",
+        "range": 6
+      },
+      {
+        "gunId": 1,
+        "name": "combat rifle",
+        "level": "13-18",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 1,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 2,
+        "damage": "1d8",
+        "range": 6
+      },
+      {
+        "gunId": 1,
+        "name": "combat rifle",
+        "level": "19-24",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 3,
+        "ac16+_crit": 1,
+        "damage": "2d6",
+        "range": 6
+      },
+      {
+        "gunId": 1,
+        "name": "combat rifle",
+        "level": "25-30",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 1,
+        "ac8-15_hit": 2,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 3,
+        "damage": "1d10",
+        "range": 6
+      }
+    ]
+  },
+  {
+    "DieNumber": 5,
+    "GunType": "sniper rifle",
+    "bonus": "If Range 3+: +3 Accuracy",
+    "Guilds": [
+      { "DieNumber": 1, "GuildId": 4, "GuildName":"Dahlia" }, 
+      { "DieNumber": 2, "GuildId": 7, "GuildName":"Hyperius" }, 
+      { "DieNumber": 3, "GuildId": 5, "GuildName":"Blackpowder" },
+      { "DieNumber": 4, "GuildId": 6, "GuildName":"Malefactor" }, 
+      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" }, 
+      { "DieNumber": 6, "GuildId": 4, "GuildName":"Dahlia" }, 
+      { "DieNumber": 7, "GuildId": 7, "GuildName":"Hyperius" }, 
+      { "DieNumber": 8, "GuildId": 5, "GuildName":"Blackpowder" }
+    ],
+    "stats": [
+      {
+        "gunId": 5,
+        "name": "sniper rifle",
+        "level": "1-6",
+        "ac2-7_hit": 0,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 1,
+        "damage": "1d10",
+        "range": 8
+      },
+      {
+        "gunId": 5,
+        "name": "sniper rifle",
+        "level": "7-12",
+        "ac2-7_hit": 0,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 1,
+        "damage": "1d12",
+        "range": 8
+      },
+      {
+        "gunId": 5,
+        "name": "sniper rifle",
+        "level": "13-18",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 1,
+        "ac16+_crit": 2,
+        "damage": "1d12",
+        "range": 8
+      },
+      {
+        "gunId": 5,
+        "name": "sniper rifle",
+        "level": "19-24",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 1,
+        "ac16+_crit": 2,
+        "damage": "2d12",
+        "range": 8
+      },
+      {
+        "gunId": 5,
+        "name": "sniper rifle",
+        "level": "25-30",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 2,
+        "damage": "1d12",
+        "range": 8
+      }
+    ]
+  },
+  {
+    "DieNumber": 6,
+    "GunType": "rocket launcher",
+    "bonus": "Splash",
+    "Guilds": [
+      { "DieNumber": 1, "GuildId": 3, "GuildName":"Skuldugger" }, 
+      { "DieNumber": 2, "GuildId": 6, "GuildName":"Malefactor" }, 
+      { "DieNumber": 3, "GuildId": 9, "GuildName":"Feriore" },
+      { "DieNumber": 4, "GuildId": 10, "GuildName":"Torgue" },
+      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" },
+      { "DieNumber": 6, "GuildId": 3, "GuildName":"Skuldugger" },
+      { "DieNumber": 7, "GuildId": 6, "GuildName":"Malefactor" }, 
+      { "DieNumber": 8, "GuildId": 9, "GuildName":"Feriore" }
+    "stats": [
+      {
+        "gunId": 6,
+        "name": "rocket launcher",
+        "level": "1-6",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 1,
+        "damage": "1d12",
+        "range": 4
+      },
+      {
+        "gunId": 6,
+        "name": "rocket launcher",
+        "level": "7-12",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 1,
+        "damage": "2d10",
+        "range": 4
+      },
+      {
+        "gunId": 6,
+        "name": "rocket launcher",
+        "level": "13-18",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 1,
+        "ac16+_crit": 2,
+        "damage": "1d12",
+        "range": 4
+      },
+      {
+        "gunId": 6,
+        "name": "rocket launcher",
+        "level": "19-24",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 0,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 0,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "2d12",
+        "range": 4
+      },
+      {
+        "gunId": 6,
+        "name": "rocket launcher",
+        "level": "25-30",
+        "ac2-7_hit": 1,
+        "ac2-7_crit": 1,
+        "ac8-15_hit": 1,
+        "ac8-15_crit": 1,
+        "ac16+_hit": 2,
+        "ac16+_crit": 1,
+        "damage": "1d20",
+        "range": 4
+      }
+    ]
+  }
+]

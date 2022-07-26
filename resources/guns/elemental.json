@@ -1,0 +1,178 @@
+[
+    {
+      "percent": "1-10",
+      "common": "",
+      "uncommon": "",
+      "rare": "",
+      "epic": "",
+      "legendary": ""
+    },
+    {
+      "percent": "11-15",
+      "common": "",
+      "uncommon": "",
+      "rare": "",
+      "epic": "radiation",
+      "legendary": "radiation"
+    },
+    {
+      "percent": "16-20",
+      "common": "",
+      "uncommon": "",
+      "rare": "",
+      "epic": "corrosive",
+      "legendary": "corrosive"
+    },
+    {
+      "percent": "21-25",
+      "common": "",
+      "uncommon": "",
+      "rare": "",
+      "epic": "shock",
+      "legendary": "shock"
+    },
+    {
+      "percent": "26-30",
+      "common": "",
+      "uncommon": "",
+      "rare": "radiation",
+      "epic": "explosive",
+      "legendary": "explosive"
+    },
+    {
+      "percent": "31-35",
+      "common": "",
+      "uncommon": "",
+      "rare": "corrosive",
+      "epic": "incendiary",
+      "legendary": "incendiary"
+    },
+    {
+      "percent": "36-40",
+      "common": "",
+      "uncommon": "",
+      "rare": "shock",
+      "epic": "cryo",
+      "legendary": "cryo"
+    },
+    {
+      "percent": "41-45",
+      "common": "",
+      "uncommon": "",
+      "rare": "explosive",
+      "epic": "radiation (+1d6)",
+      "legendary": "radiation (+1d6)"
+    },
+    {
+      "percent": "46-50",
+      "common": "",
+      "uncommon": "",
+      "rare": "incendiary",
+      "epic": "corrosive (+1d6)",
+      "legendary": "corrosive (+1d6)"
+    },
+    {
+      "percent": "51-55",
+      "common": "",
+      "uncommon": "",
+      "rare": "cryo",
+      "epic": "shock (+1d6)",
+      "legendary": "shock (+1d6)"
+    },
+    {
+      "percent": "56-60",
+      "common": "",
+      "uncommon": "radiation",
+      "rare": "radiation (+1d6)",
+      "epic": "explosive (+1d6)",
+      "legendary": "explosive (+1d6)"
+    },
+    {
+      "percent": "61-65",
+      "common": "",
+      "uncommon": "corrosive",
+      "rare": "corrosive (+1d6)",
+      "epic": "incendiary (+1d6)",
+      "legendary": "incendiary (+1d6)"
+    },
+    {
+      "percent": "66-70",
+      "common": "",
+      "uncommon": "shock",
+      "rare": "shock (+1d6)",
+      "epic": "cryo (+1d6)",
+      "legendary": "cryo (+1d6)"
+    },
+    {
+      "percent": "71-75",
+      "common": "",
+      "uncommon": "explosive",
+      "rare": "explosive (+1d6)",
+      "epic": "radiation (+2d6)",
+      "legendary": "radiation (+2d6)"
+    },
+    {
+      "percent": "76-80",
+      "common": "",
+      "uncommon": "incendiary",
+      "rare": "incendiary (+1d6)",
+      "epic": "corrosive (+2d6)",
+      "legendary": "corrosive (+2d6)"
+    },
+    {
+      "percent": "81-85",
+      "common": "",
+      "uncommon": "cryo",
+      "rare": "cryo (+1d6)",
+      "epic": "shock (+2d6)",
+      "legendary": "shock (+2d6)"
+    },
+    {
+      "percent": "86-90",
+      "common": "radiation",
+      "uncommon": "radiation (+1d6)",
+      "rare": "radiation (+2d6)",
+      "epic": "explosive (+2d6)",
+      "legendary": "explosive (+2d6)"
+    },
+    {
+      "percent": "91-92",
+      "common": "corrosive",
+      "uncommon": "corrosive (+1d6)",
+      "rare": "corrosive (+2d6)",
+      "epic": "incendiary (+2d6)",
+      "legendary": "incendiary (+2d6)"
+    },
+    {
+      "percent": "93-94",
+      "common": "shock",
+      "uncommon": "shock (+1d6)",
+      "rare": "shock (+2d6)",
+      "epic": "cryo (+2d6)",
+      "legendary": "cryo (+2d6)"
+    },
+    {
+      "percent": "95-96",
+      "common": "explosive",
+      "uncommon": "explosive (+1d6)",
+      "rare": "explosive (+2d6)",
+      "epic": "radiation, incendiary",
+      "legendary": "radiation, incendiary"
+    },
+    {
+      "percent": "97-98",
+      "common": "incendiary",
+      "uncommon": "incendiary (+1d6)",
+      "rare": "incendiary (+2d6)",
+      "epic": "shock, corrosive",
+      "legendary": "shock, corrosive"
+    },
+    {
+      "percent": "99-100",
+      "common": "cryo",
+      "uncommon": "cryo (+1d6)",
+      "rare": "cryo (+2d6)",
+      "epic": "explosive, cryo",
+      "legendary": "explosive, cryo"
+    }
+   ]
