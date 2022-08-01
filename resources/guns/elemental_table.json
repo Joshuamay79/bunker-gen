@@ -1,0 +1,784 @@
+[
+  {
+    "DieRange": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": ""
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": ""
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": ""
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      11,
+      12,
+      13,
+      14,
+      15
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": ""
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "radiation"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "radiation"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": ""
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "corrosive"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "corrosive"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      21,
+      22,
+      23,
+      24,
+      25
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": ""
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "shock"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "shock"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      26,
+      27,
+      28,
+      29,
+      30
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "radiation"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "explosive"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "explosive"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      31,
+      32,
+      33,
+      34,
+      35
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "corrosive"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "incendiary"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "incendiary"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      36,
+      37,
+      38,
+      39,
+      40
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "shock"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "cryo"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "cryo"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "explosive"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "radiation (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "radiation (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      46,
+      47,
+      48,
+      49,
+      50
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "incendiary"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "corrosive (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "corrosive (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      51,
+      52,
+      53,
+      54,
+      55
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": ""
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "cryo"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "shock (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "shock (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "radiation"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "radiation (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "explosive (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "explosive (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "corrosive"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "corrosive (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "incendiary (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "incendiary (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "shock"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "shock (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "cryo (+1d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "cryo (+1d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      71,
+      72,
+      73,
+      74,
+      75
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "explosive"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "explosive (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "radiation (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "radiation (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      76,
+      77,
+      78,
+      79,
+      80
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "incendiary"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "incendiary (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "corrosive (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "corrosive (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": ""
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "cryo"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "cryo (+1d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "shock (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "shock (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "radiation"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "radiation (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "radiation (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "explosive (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "explosive (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      91,
+      92
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "corrosive"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "corrosive (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "corrosive (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "incendiary (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "incendiary (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      93,
+      94
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "shock"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "shock (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "shock (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "cryo (+2d6)"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "cryo (+2d6)"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      95,
+      96
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "explosive"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "explosive (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "explosive (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "radiation, incendiary"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "radiation, incendiary"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      97,
+      98
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "incendiary"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "incendiary (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "incendiary (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "shock, corrosive"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "shock, corrosive"
+      }
+    ]
+  },
+  {
+    "DieRange": [
+      99,
+      100
+    ],
+    "rarities": [
+      {
+        "DieNumber": 1,
+        "rarity": "common",
+        "effect": "cryo"
+      },
+      {
+        "DieNumber": 2,
+        "rarity": "uncommon",
+        "effect": "cryo (+1d6)"
+      },
+      {
+        "DieNumber": 3,
+        "rarity": "rare",
+        "effect": "cryo (+2d6)"
+      },
+      {
+        "DieNumber": 4,
+        "rarity": "epic",
+        "effect": "explosive, cryo"
+      },
+      {
+        "DieNumber": 5,
+        "rarity": "legendary",
+        "effect": "explosive, cryo"
+      }
+    ]
+  }
+]

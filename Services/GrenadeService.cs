@@ -33,7 +33,7 @@ namespace BunkerGen.Services
             var g = GuildDice.First(gu => gu.DieNumber == gRoll);
 
             var s = Grenades.First(sh => sh.GuildId == g.GuildId && sh.LevelRange.Contains(level));
-            SQLiteService.Add(1,JsonSerializer.Serialize(s));
+            SQLiteService.Add(1, JsonSerializer.Serialize(s));
             return s;
         }
     }

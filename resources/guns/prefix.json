@@ -1,501 +1,501 @@
 [
     {
-        "die number": 1,
+        "DieNumber": 1,
         "text": "One",
         "effect": "Can only be fired once per day. Deals 10x Damage."
     },
     {
-        "die number": 2,
+        "DieNumber": 2,
         "text": "Normal",
         "effect": "Appearance of a Common gun."
     },
     {
-        "die number": 3,
+        "DieNumber": 3,
         "text": "Adorable",
         "effect": "25% chance to distract Enemies with baby animal hallucinations."
     },
     {
-        "die number": 4,
+        "DieNumber": 4,
         "text": "Gaudy",
         "effect": "Highly reflective\t which can be used to temporarily blind Enemies\t giving them -3 on Attack Rolls."
     },
     {
-        "die number": 5,
+        "DieNumber": 5,
         "text": "Cheerful",
         "effect": "Grants +1 to all Talk Checks while equipped."
     },
     {
-        "die number": 6,
+        "DieNumber": 6,
         "text": "Jumbled",
         "effect": "Has the Accuracy and Damage of one gun type\t but the Range and bonuses of another."
     },
     {
-        "die number": 7,
+        "DieNumber": 7,
         "text": "Classy",
         "effect": "Gun will only fire if the wielder has the pinky of their shooting hand out."
     },
     {
-        "die number": 8,
+        "DieNumber": 8,
         "text": "Economic",
         "effect": "Enemies drop 2 gold per Hit and 5 gold per Crit."
     },
     {
-        "die number": 9,
+        "DieNumber": 9,
         "text": "Certain",
         "effect": "Grants a +2 bonus during Badass attempts."
     },
     {
-        "die number": 10,
+        "DieNumber": 10,
         "text": "Humdrum",
         "effect": "Enemies Hit experience ennui."
     },
     {
-        "die number": 11,
+        "DieNumber": 11,
         "text": "Lively",
         "effect": "This gun has an Al that thinks it's alive. It can open any door once per day."
     },
     {
-        "die number": 12,
+        "DieNumber": 12,
         "text": "Bitter",
         "effect": "Enemies get -1 to their Attack Rolls for each Enemy killed by this gun in this encounter."
     },
     {
-        "die number": 13,
+        "DieNumber": 13,
         "text": "Sleepy",
         "effect": "Enemies Hit are Slowed."
     },
     {
-        "die number": 14,
+        "DieNumber": 14,
         "text": "Deafening",
         "effect": "Screams when fired. dealing 1 Damage to all adjacent targets."
     },
     {
-        "die number": 15,
+        "DieNumber": 15,
         "text": "Selfish",
         "effect": "Deals 1d6 Damage to wielder when changing to another equipped gun."
     },
     {
-        "die number": 16,
+        "DieNumber": 16,
         "text": "Obtainable",
         "effect": "Must be picked up using an Interact (17+) Check. Deals 2x Damage."
     },
     {
-        "die number": 17,
+        "DieNumber": 17,
         "text": "Abrasive",
         "effect": "Adds +1 Crit to Melee Attacks."
     },
     {
-        "die number": 18,
+        "DieNumber": 18,
         "text": "Smelly",
         "effect": "Enemies Hit take 1d6 Radiation Damage."
     },
     {
-        "die number": 19,
+        "DieNumber": 19,
         "text": "Tart",
         "effect": "Enemies react as if they have eaten something tart\t getting -1 to their next Attack Roll."
     },
     {
-        "die number": 20,
+        "DieNumber": 20,
         "text": "Worried",
         "effect": "Crits have a 50% chance to make BR 8 or less Enemies flee."
     },
     {
-        "die number": 21,
+        "DieNumber": 21,
         "text": "Swift",
         "effect": "Grants a free Melee Attack each turn."
     },
     {
-        "die number": 22,
+        "DieNumber": 22,
         "text": "Two",
         "effect": "Creates a duplicate gun. Must be fired at the same time. 3x Damage."
     },
     {
-        "die number": 23,
+        "DieNumber": 23,
         "text": "Toothsome",
         "effect": "Gets a Bite Attack each turn for 1d6 Damage to an adjacent target."
     },
     {
-        "die number": 24,
+        "DieNumber": 24,
         "text": "Light",
         "effect": "Fires rays of light that deal +1d6 Incendiary Damage."
     },
     {
-        "die number": 25,
+        "DieNumber": 25,
         "text": "Boundless",
         "effect": "Generates a Loot Pile when it Hits an Enemy."
     },
     {
-        "die number": 26,
+        "DieNumber": 26,
         "text": "Incandescent",
         "effect": "Shines brighter when being fired."
     },
     {
-        "die number": 27,
+        "DieNumber": 27,
         "text": "Elfin",
         "effect": "Increases Movement by 1 square while firing."
     },
     {
-        "die number": 28,
+        "DieNumber": 28,
         "text": "Splendid",
         "effect": "Deals 2x Damage to Badass-type Enemies."
     },
     {
-        "die number": 29,
+        "DieNumber": 29,
         "text": "Small",
         "effect": "Can have a 4th gun equipped as long as this gun is equipped."
     },
     {
-        "die number": 30,
+        "DieNumber": 30,
         "text": "Pumped",
         "effect": "Lifts Enemies Hit a foot off of the ground."
     },
     {
-        "die number": 31,
+        "DieNumber": 31,
         "text": "Horrible",
         "effect": "Enemies killed by this gun explode."
     },
     {
-        "die number": 32,
+        "DieNumber": 32,
         "text": "Fresh",
         "effect": "First Attack of an encounter deals 2x Damage."
     },
     {
-        "die number": 33,
+        "DieNumber": 33,
         "text": "Zesty",
         "effect": "Enemies killed by this gun grant the wielder 1 Badass Token."
     },
     {
-        "die number": 34,
+        "DieNumber": 34,
         "text": "Utter",
         "effect": "Has a secret password that activates 3x Damage for 2 turns. Wielder can guess once per encounter."
     },
     {
-        "die number": 35,
+        "DieNumber": 35,
         "text": "Far-Flung",
         "effect": "Double the Range of any Thrown item while this gun is equipped."
     },
     {
-        "die number": 36,
+        "DieNumber": 36,
         "text": "Superb",
         "effect": "Grants +1 to Mods on the gun."
     },
     {
-        "die number": 37,
+        "DieNumber": 37,
         "text": "Knotty",
         "effect": "Ties an Enemy's shoes together\t reducing their Movement by 1."
     },
     {
-        "die number": 38,
+        "DieNumber": 38,
         "text": "Wrathful",
         "effect": "Deals 2x Damage to Enemies that have Damaged the wielder."
     },
     {
-        "die number": 39,
+        "DieNumber": 39,
         "text": "Panoramic",
         "effect": "Fires in a 180 degree arc. Hits/Crits can each be applied to a different Enemy in Range."
     },
     {
-        "die number": 40,
+        "DieNumber": 40,
         "text": "Critical",
         "effect": "Rolled Hits become Crits. Rolled Crits become misses."
     },
     {
-        "die number": 41,
+        "DieNumber": 41,
         "text": "Practical",
         "effect": "Swapping to a different gun grants the wielder a Badass Token."
     },
     {
-        "die number": 42,
+        "DieNumber": 42,
         "text": "Strong",
         "effect": "Grants +1 to all Interact Checks while equipped."
     },
     {
-        "die number": 43,
+        "DieNumber": 43,
         "text": "Relevant",
         "effect": "Will deliver cryptic information on a topic up to 3x a day."
     },
     {
-        "die number": 44,
+        "DieNumber": 44,
         "text": "Tense.",
         "effect": "30% chance to taze the Enemy\t dealing 1d6 Shock Damage."
     },
     {
-        "die number": 45,
+        "DieNumber": 45,
         "text": "Stupendous",
         "effect": "Double the Hits of this gun. Attacks deal 2d4 Damage to the wielder."
     },
     {
-        "die number": 46,
+        "DieNumber": 46,
         "text": "Suitable",
         "effect": "Can disguise the wielder in a suit of any kind once per day."
     },
     {
-        "die number": 47,
+        "DieNumber": 47,
         "text": "Unwieldy",
         "effect": "Twice the size of a normal gun. 2x Damage. Reloading takes 2 turns."
     },
     {
-        "die number": 48,
+        "DieNumber": 48,
         "text": "Woozy",
         "effect": "Each time an Enemy is Hit by this gun\t 10% chance they pass out."
     },
     {
-        "die number": 49,
+        "DieNumber": 49,
         "text": "Grotesque",
         "effect": "Gun looks horrific\t possibly cursed. A counter increases every time it kills an Enemy."
     },
     {
-        "die number": 50,
+        "DieNumber": 50,
         "text": "Puny",
         "effect": "Appearance of a miniature gun."
     },
     {
-        "die number": 51,
+        "DieNumber": 51,
         "text": "Tawdry",
         "effect": "When Reloaded\t becomes a grenade that deals 3d8 Damage."
     },
     {
-        "die number": 52,
+        "DieNumber": 52,
         "text": "Nutty",
         "effect": "Instantly kills any Enemy with a nut allergy."
     },
     {
-        "die number": 53,
+        "DieNumber": 53,
         "text": "Adhesive",
         "effect": "Enemies Hit begin to stick to anything they come into contact with."
     },
     {
-        "die number": 54,
+        "DieNumber": 54,
         "text": "Exciting",
         "effect": "50% chance for Explosive rounds."
     },
     {
-        "die number": 55,
+        "DieNumber": 55,
         "text": "Mixed",
         "effect": "For each Hit/Crit\t gather the next die for Damage - d6\td8\td10\td12\td20."
     },
     {
-        "die number": 56,
+        "DieNumber": 56,
         "text": "Aback",
         "effect": "Enemies Hit in the front are spun backwards."
     },
     {
-        "die number": 57,
+        "DieNumber": 57,
         "text": "Labored",
         "effect": "Adds +3 DMG Mod if standing still."
     },
     {
-        "die number": 58,
+        "DieNumber": 58,
         "text": "Questionable",
         "effect": "Deals 2x Damage to Enemies that can question their existence."
     },
     {
-        "die number": 59,
+        "DieNumber": 59,
         "text": "Aberrant",
         "effect": "Gains the stats of a random gun type."
     },
     {
-        "die number": 60,
+        "DieNumber": 60,
         "text": "Resolute",
         "effect": "Cannot be fired on the first turn of an encounter. Deals 2x Damage."
     },
     {
-        "die number": 61,
+        "DieNumber": 61,
         "text": "Far",
         "effect": "Double the Range of this gun."
     },
     {
-        "die number": 62,
+        "DieNumber": 62,
         "text": "Mad",
         "effect": "Enemies Hit have a 50% chance of being Taunted."
     },
     {
-        "die number": 63,
+        "DieNumber": 63,
         "text": "Grey",
         "effect": "Deals 2x Damage. Enemies Hit drop 1 less Loot Pile and only drop Common items."
     },
     {
-        "die number": 64,
+        "DieNumber": 64,
         "text": "Damp",
         "effect": "Creates puddles of water under Enemies Hit."
     },
     {
-        "die number": 65,
+        "DieNumber": 65,
         "text": "Actually",
         "effect": "Can reroll Accuracy once per turn when firing this gun."
     },
     {
-        "die number": 66,
+        "DieNumber": 66,
         "text": "Jazzy",
         "effect": "10% chance the non-Boss Enemy lets go of any weapons and starts doing 'jazz hands.'"
     },
     {
-        "die number": 67,
+        "DieNumber": 67,
         "text": "Frightening",
         "effect": "Enemies within 2 squares are compelled to take Cover."
     },
     {
-        "die number": 68,
+        "DieNumber": 68,
         "text": "Shaky",
         "effect": "Gun shakes uncontrollably; Enemies Hit also shake uncontrollably."
     },
     {
-        "die number": 69,
+        "DieNumber": 69,
         "text": "Scintillating",
         "effect": "50% chance to Hit the chest or groin of Enemy."
     },
     {
-        "die number": 70,
+        "DieNumber": 70,
         "text": "Handsomely",
         "effect": "Add Damage equal to your Talk modifier."
     },
     {
-        "die number": 71,
+        "DieNumber": 71,
         "text": "Hysterical",
         "effect": "Enemies Hit burst out laughing\t causing -1 to Attack Rolls."
     },
     {
-        "die number": 72,
+        "DieNumber": 72,
         "text": "Impolite",
         "effect": "Randomly burps out a Loot Pile when fired."
     },
     {
-        "die number": 73,
+        "DieNumber": 73,
         "text": "Unable",
         "effect": "Enemies Hit cannot take Mayhem Actions."
     },
     {
-        "die number": 74,
+        "DieNumber": 74,
         "text": "Towering",
         "effect": "Wielder appears twice their size while gun is equipped."
     },
     {
-        "die number": 75,
+        "DieNumber": 75,
         "text": "Parallel",
         "effect": "Rounds split into 2 parallel lines that can Hit Enemies in 2 adjacent squares."
     },
     {
-        "die number": 76,
+        "DieNumber": 76,
         "text": "Mundane",
         "effect": "Grants +1 to all Sneak Checks while equipped."
     },
     {
-        "die number": 77,
+        "DieNumber": 77,
         "text": "Breezy",
         "effect": "Enemies targeted them 1 square backwards."
     },
     {
-        "die number": 78,
+        "DieNumber": 78,
         "text": "Disgusted",
         "effect": "Deals + 1d6 Corrosive Damage. Enemies killed die badly."
     },
     {
-        "die number": 79,
+        "DieNumber": 79,
         "text": "Imaginary",
         "effect": "Appears as if you are not holding any gun. Makes fake firing noises when fired."
     },
     {
-        "die number": 80,
+        "DieNumber": 80,
         "text": "Knowing",
         "effect": "Knows all. Can ask the gun a question once per day."
     },
     {
-        "die number": 81,
+        "DieNumber": 81,
         "text": "Joyous",
         "effect": "Plays upbeat music when being fired."
     },
     {
-        "die number": 82,
+        "DieNumber": 82,
         "text": "Clever",
         "effect": "Grants +1 to all Insight Checks while equipped."
     },
     {
-        "die number": 83,
+        "DieNumber": 83,
         "text": "Abhorrent",
         "effect": "Enemies cannot stay within 1 square while this gun is equipped."
     },
     {
-        "die number": 84,
+        "DieNumber": 84,
         "text": "Open",
         "effect": "Once per turn\t you may Reload this gun as a free Action without generating Mayhem."
     },
     {
-        "die number": 85,
+        "DieNumber": 85,
         "text": "Several",
         "effect": "Splits into 2 guns that are dual wielded."
     },
     {
-        "die number": 86,
+        "DieNumber": 86,
         "text": "Honorable",
         "effect": "All rounds Hit Enemies in the front."
     },
     {
-        "die number": 87,
+        "DieNumber": 87,
         "text": "Synonymous",
         "effect": "Grants Guild bonuses twice."
     },
     {
-        "die number": 88,
+        "DieNumber": 88,
         "text": "Madly",
         "effect": "Enemies Hit have 50% chance of becoming Confused."
     },
     {
-        "die number": 89,
+        "DieNumber": 89,
         "text": "Obnoxious",
         "effect": "Guaranteed Insight Check once per day but you have to listen to the gun drone on and on and on."
     },
     {
-        "die number": 90,
+        "DieNumber": 90,
         "text": "Holistic",
         "effect": "Damage is dealt to Shield\t Armor\t and Health."
     },
     {
-        "die number": 91,
+        "DieNumber": 91,
         "text": "Few",
         "effect": "Max 1 Hit. Deal an additional 3 Damage for each unused Hit."
     },
     {
-        "die number": 92,
+        "DieNumber": 92,
         "text": "Legal",
         "effect": "contract to drop 1 extra Loot Pile when they die."
     },
     {
-        "die number": 93,
+        "DieNumber": 93,
         "text": "Abiding",
         "effect": "Grants +1 to all Search Checks while equipped."
     },
     {
-        "die number": 94,
+        "DieNumber": 94,
         "text": "Unfair",
         "effect": "An Extra Attack with this gun does not generate Mayhem."
     },
     {
-        "die number": 95,
+        "DieNumber": 95,
         "text": "Tender",
         "effect": "Converts 10% of Damage dealt into Health for an adjacent ally."
     },
     {
-        "die number": 96,
+        "DieNumber": 96,
         "text": "Same",
         "effect": "Enemies Hit will take an equal amount of Damage from the gun for each Attack."
     },
     {
-        "die number": 97,
+        "DieNumber": 97,
         "text": "Overconfident",
         "effect": "If Accuracy Roll is 10 or less\t all Hits are Crits."
     },
     {
-        "die number": 98,
+        "DieNumber": 98,
         "text": "Eatable",
         "effect": "Can consume the gun when Reloading to gain 2d4 Health."
     },
     {
-        "die number": 99,
+        "DieNumber": 99,
         "text": "Thirsty",
         "effect": "Converts 10% of Damage dealt into Health."
     },
     {
-        "die number": 100,
+        "DieNumber": 100,
         "text": "Imminent",
         "effect": "Enemies Hit take increasing Damage each turn\t starting at 1 and adding 1 with each Hit/turn."
     }

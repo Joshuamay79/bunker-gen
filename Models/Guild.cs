@@ -1,12 +1,11 @@
 namespace BunkerGen.Models
 {
-    public class Guild
+    public class Guild : GuildDie
     {
-        public int GuildId { get; set; }
         public string GuildName { get; set; }
     }
 
-    
+
     public class GuildDie : IGuildDie
     {
         public int DieNumber { get; set; }

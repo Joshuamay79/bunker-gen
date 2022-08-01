@@ -4,14 +4,46 @@
     "GunType": "Pistol",
     "bonus": "",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 2, "GuildName":"Alas!" }, 
-      { "DieNumber": 2, "GuildId": 4, "GuildName":"Dahlia" },
-      { "DieNumber": 3, "GuildId": 7, "GuildName":"Hyperius" },
-      { "DieNumber": 4, "GuildId": 6, "GuildName":"Malefactor" },
-      { "DieNumber": 5, "GuildId": 9, "GuildName":"Feriore" }, 
-      { "DieNumber": 6, "GuildId": 11, "GuildName":"Stoker" }, 
-      { "DieNumber": 7, "GuildId": 10, "GuildName":"Torgue" }, 
-      { "DieNumber": 8, "GuildId": 5, "GuildName":"Blackpowder" } 
+      {
+        "DieNumber": 1,
+        "GuildId": 2,
+        "GuildName": "Alas!"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 9,
+        "GuildName": "Feriore"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 11,
+        "GuildName": "Stoker"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 10,
+        "GuildName": "Torgue"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      }
     ],
     "stats": [
       {
@@ -86,14 +118,46 @@
     "GunType": "submachine gun",
     "bonus": "",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 4, "GuildName":"Dahlia" }, 
-      { "DieNumber": 2, "GuildId": 7, "GuildName":"Hyperius" }, 
-      { "DieNumber": 3, "GuildId": 6, "GuildName":"Malefactor" },
-      { "DieNumber": 4, "GuildId": 9, "GuildName":"Feriore" }, 
-      { "DieNumber": 5, "GuildId": 10, "GuildName":"Torgue" }, 
-      { "DieNumber": 6, "GuildId": 4, "GuildName":"Dahlia" }, 
-      { "DieNumber": 7, "GuildId": 7, "GuildName":"Hyperius" }, 
-      { "DieNumber": 8, "GuildId": 6, "GuildName":"Malefactor" }
+      {
+        "DieNumber": 1,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 9,
+        "GuildName": "Feriore"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 10,
+        "GuildName": "Torgue"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      }
     ],
     "stats": [
       {
@@ -168,14 +232,46 @@
     "GunType": "shotgun",
     "bonus": "If Range 2 or Less: +2 Damage",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 7, "GuildName":"Hyperius" }, 
-      { "DieNumber": 2, "GuildId": 6, "GuildName":"Malefactor" },
-      { "DieNumber": 3, "GuildId": 3, "GuildName":"Skuldugger" },
-      { "DieNumber": 4, "GuildId": 11, "GuildName":"Stoker" }, 
-      { "DieNumber": 5, "GuildId": 2, "GuildName":"Alas!" }, 
-      { "DieNumber": 6, "GuildId": 4, "GuildName":"Dahlia" },
-      { "DieNumber": 7, "GuildId": 5, "GuildName":"Blackpowder" }, 
-      { "DieNumber": 8, "GuildId": 9, "GuildName":"Feriore" } 
+      {
+        "DieNumber": 1,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 3,
+        "GuildName": "Skuldugger"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 11,
+        "GuildName": "Stoker"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 2,
+        "GuildName": "Alas!"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 9,
+        "GuildName": "Feriore"
+      }
     ],
     "stats": [
       {
@@ -250,14 +346,46 @@
     "GunType": "combat rifle",
     "bonus": "",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 3 , "GuildName":"Skuldugger"}, 
-      { "DieNumber": 2, "GuildId": 4, "GuildName":"Dahlia" },
-      { "DieNumber": 3, "GuildId": 5, "GuildName":"Blackpowder" },
-      { "DieNumber": 4, "GuildId": 10, "GuildName":"Torgue" }, 
-      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" }, 
-      { "DieNumber": 6, "GuildId": 3, "GuildName":"Skuldugger" },
-      { "DieNumber": 7, "GuildId": 4, "GuildName":"Dahlia" }, 
-      { "DieNumber": 8, "GuildId": 5, "GuildName":"Blackpowder" }
+      {
+        "DieNumber": 1,
+        "GuildId": 3,
+        "GuildName": "Skuldugger"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 10,
+        "GuildName": "Torgue"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 11,
+        "GuildName": "Stoker"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 3,
+        "GuildName": "Skuldugger"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      }
     ],
     "stats": [
       {
@@ -332,14 +460,46 @@
     "GunType": "sniper rifle",
     "bonus": "If Range 3+: +3 Accuracy",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 4, "GuildName":"Dahlia" }, 
-      { "DieNumber": 2, "GuildId": 7, "GuildName":"Hyperius" }, 
-      { "DieNumber": 3, "GuildId": 5, "GuildName":"Blackpowder" },
-      { "DieNumber": 4, "GuildId": 6, "GuildName":"Malefactor" }, 
-      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" }, 
-      { "DieNumber": 6, "GuildId": 4, "GuildName":"Dahlia" }, 
-      { "DieNumber": 7, "GuildId": 7, "GuildName":"Hyperius" }, 
-      { "DieNumber": 8, "GuildId": 5, "GuildName":"Blackpowder" }
+      {
+        "DieNumber": 1,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 11,
+        "GuildName": "Stoker"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 4,
+        "GuildName": "Dahlia"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 7,
+        "GuildName": "Hyperius"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 5,
+        "GuildName": "Blackpowder"
+      }
     ],
     "stats": [
       {
@@ -414,14 +574,46 @@
     "GunType": "rocket launcher",
     "bonus": "Splash",
     "Guilds": [
-      { "DieNumber": 1, "GuildId": 3, "GuildName":"Skuldugger" }, 
-      { "DieNumber": 2, "GuildId": 6, "GuildName":"Malefactor" }, 
-      { "DieNumber": 3, "GuildId": 9, "GuildName":"Feriore" },
-      { "DieNumber": 4, "GuildId": 10, "GuildName":"Torgue" },
-      { "DieNumber": 5, "GuildId": 11, "GuildName":"Stoker" },
-      { "DieNumber": 6, "GuildId": 3, "GuildName":"Skuldugger" },
-      { "DieNumber": 7, "GuildId": 6, "GuildName":"Malefactor" }, 
-      { "DieNumber": 8, "GuildId": 9, "GuildName":"Feriore" }
+      {
+        "DieNumber": 1,
+        "GuildId": 3,
+        "GuildName": "Skuldugger"
+      },
+      {
+        "DieNumber": 2,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 3,
+        "GuildId": 9,
+        "GuildName": "Feriore"
+      },
+      {
+        "DieNumber": 4,
+        "GuildId": 10,
+        "GuildName": "Torgue"
+      },
+      {
+        "DieNumber": 5,
+        "GuildId": 11,
+        "GuildName": "Stoker"
+      },
+      {
+        "DieNumber": 6,
+        "GuildId": 3,
+        "GuildName": "Skuldugger"
+      },
+      {
+        "DieNumber": 7,
+        "GuildId": 6,
+        "GuildName": "Malefactor"
+      },
+      {
+        "DieNumber": 8,
+        "GuildId": 9,
+        "GuildName": "Feriore"
+      }
     ],
     "stats": [
       {
