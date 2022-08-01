@@ -3,6 +3,14 @@ using System.Text.Json.Serialization;
 namespace BunkerGen.Models
 {
 
+public class Gun
+{
+    public string GunType { get; set; }
+    public string Range { get; set; }
+    public string Shots=>"Convert 2-x acc roll class details";
+     
+}
+
     public class GunTable: IDie
     {
         public int DieNumber { get; set; }
@@ -13,9 +21,7 @@ namespace BunkerGen.Models
 
         public class GunTableStat
         {
-            public int gunId { get; set; }
-            public string name { get; set; }
-            public string level { get; set; }
+            public List<int> LevelRange { get; set; }
 
             [JsonPropertyName("ac2-7_hit")]
             public int Ac27Hit { get; set; }
@@ -42,13 +48,11 @@ namespace BunkerGen.Models
     public class RarityTable : IDie
     {
         public int DieNumber { get; set; }
-        public List<GunRarity> DiceRole { get; set; }
+        public List<GunRarity> GunRarities { get; set; }
 
-        public class GunRarity : IDie
+        public class GunRarity : RarityDie
         {
-            public int DieNumber { get; set; }
-            public string RarityInfo { get; set; }
-            public bool Elemental { get; set; }
+            public bool HasElement { get; set; }
         }
     }
 
@@ -56,37 +60,21 @@ namespace BunkerGen.Models
     {
         public List<int> DieRange { get; set; }
         public List<ElementTableRarity> Rarities { get; set; }
+        public class ElementTableRarity:Rarity{
+public string Effect { get; set; }
+        }
     }
 
-    public class ElementTableRarity : IDie
+    public class GunGuild:Guild
     {
-        public int DieNumber { get; set; }
-        public string Rarity { get; set; }
-        public string Effect { get; set; }
-    }
-
-    public class GunGuild
-    {
-        public int GuildId { get; set; }
-        public string GuildName { get; set; }
         public bool HasElement { get; set; }
         public string GunInfo { get; set; }
         public List<GunGuildRarity> Rarities { get; set; }
-    }
-
-    public class GunGuildRarity
+        
+    public class GunGuildRarity:Rarity
     {
-        public int Level { get; set; }
-        public string Name { get; set; }
         public string Bonus { get; set; }
+        public int? ElementalRoll { get; set; }
     }
-
-    // public class Guildz
-    // {
-    //     public int DieNumber { get; set; }
-    //     public int GuildId { get; set; }
-    //     public string GuildName { get; set; }
-    // }
-
-
+    }
 }

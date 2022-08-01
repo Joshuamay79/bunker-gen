@@ -1,6 +1,6 @@
 namespace BunkerGen.Models
 {
-    public class Shield
+    public class Shield:IGuild
     {
         public int GuildId { get; set; }
         public string GuildName { get; set; }

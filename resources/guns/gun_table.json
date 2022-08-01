@@ -49,7 +49,7 @@
       {
         "gunId": 2,
         "name": "pistol",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -62,7 +62,7 @@
       {
         "gunId": 2,
         "name": "pistol",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -75,7 +75,7 @@
       {
         "gunId": 2,
         "name": "pistol",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -88,7 +88,7 @@
       {
         "gunId": 2,
         "name": "pistol",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -101,7 +101,7 @@
       {
         "gunId": 2,
         "name": "pistol",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -163,7 +163,7 @@
       {
         "gunId": 3,
         "name": "submachine gun",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 3,
@@ -176,7 +176,7 @@
       {
         "gunId": 3,
         "name": "submachine gun",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 4,
@@ -189,7 +189,7 @@
       {
         "gunId": 3,
         "name": "submachine gun",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 3,
@@ -202,7 +202,7 @@
       {
         "gunId": 3,
         "name": "submachine gun",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -215,7 +215,7 @@
       {
         "gunId": 3,
         "name": "submachine gun",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 2,
         "ac2-7_crit": 2,
         "ac8-15_hit": 3,
@@ -277,7 +277,7 @@
       {
         "gunId": 4,
         "name": "shotgun",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -290,7 +290,7 @@
       {
         "gunId": 4,
         "name": "shotgun",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -303,7 +303,7 @@
       {
         "gunId": 4,
         "name": "shotgun",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 1,
         "ac2-7_crit": 1,
         "ac8-15_hit": 2,
@@ -316,7 +316,7 @@
       {
         "gunId": 4,
         "name": "shotgun",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -329,7 +329,7 @@
       {
         "gunId": 4,
         "name": "shotgun",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 1,
         "ac2-7_crit": 1,
         "ac8-15_hit": 2,
@@ -391,7 +391,7 @@
       {
         "gunId": 1,
         "name": "combat rifle",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 3,
@@ -404,7 +404,7 @@
       {
         "gunId": 1,
         "name": "combat rifle",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 2,
         "ac2-7_crit": 0,
         "ac8-15_hit": 3,
@@ -417,7 +417,7 @@
       {
         "gunId": 1,
         "name": "combat rifle",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 1,
         "ac2-7_crit": 1,
         "ac8-15_hit": 2,
@@ -430,7 +430,7 @@
       {
         "gunId": 1,
         "name": "combat rifle",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 2,
@@ -443,7 +443,7 @@
       {
         "gunId": 1,
         "name": "combat rifle",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 1,
         "ac2-7_crit": 1,
         "ac8-15_hit": 2,
@@ -505,7 +505,7 @@
       {
         "gunId": 5,
         "name": "sniper rifle",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 0,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -518,7 +518,7 @@
       {
         "gunId": 5,
         "name": "sniper rifle",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 0,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -531,7 +531,7 @@
       {
         "gunId": 5,
         "name": "sniper rifle",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -544,7 +544,7 @@
       {
         "gunId": 5,
         "name": "sniper rifle",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -557,7 +557,7 @@
       {
         "gunId": 5,
         "name": "sniper rifle",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -619,7 +619,7 @@
       {
         "gunId": 6,
         "name": "rocket launcher",
-        "level": "1-6",
+        "levelRange": [1, 2, 3, 4, 5, 6],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -632,7 +632,7 @@
       {
         "gunId": 6,
         "name": "rocket launcher",
-        "level": "7-12",
+        "levelRange": [7, 8, 9, 10, 11, 12],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -645,7 +645,7 @@
       {
         "gunId": 6,
         "name": "rocket launcher",
-        "level": "13-18",
+        "levelRange": [13, 14, 15, 16, 17, 18],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -658,7 +658,7 @@
       {
         "gunId": 6,
         "name": "rocket launcher",
-        "level": "19-24",
+        "levelRange": [19, 20, 21, 22, 23, 24],
         "ac2-7_hit": 1,
         "ac2-7_crit": 0,
         "ac8-15_hit": 1,
@@ -671,7 +671,7 @@
       {
         "gunId": 6,
         "name": "rocket launcher",
-        "level": "25-30",
+        "levelRange": [25, 26, 27, 28, 29, 30],
         "ac2-7_hit": 1,
         "ac2-7_crit": 1,
         "ac8-15_hit": 1,

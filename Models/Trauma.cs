@@ -1,6 +1,6 @@
 namespace BunkerGen.Models
 {
-    public class Trauma:IDie
+    public class Trauma : IDie
     {
         public int DieNumber { get; set; }
         public bool IsPermanent { get; set; }

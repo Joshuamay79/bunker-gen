@@ -14,27 +14,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": ""
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": ""
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": ""
       }
@@ -50,27 +50,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": ""
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "radiation"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "radiation"
       }
@@ -86,27 +86,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": ""
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "corrosive"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "corrosive"
       }
@@ -122,27 +122,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": ""
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "shock"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "shock"
       }
@@ -158,27 +158,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "radiation"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "explosive"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "explosive"
       }
@@ -194,27 +194,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "corrosive"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "incendiary"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "incendiary"
       }
@@ -230,27 +230,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "shock"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "cryo"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "cryo"
       }
@@ -266,27 +266,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "explosive"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "radiation (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "radiation (+1d6)"
       }
@@ -302,27 +302,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "incendiary"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "corrosive (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "corrosive (+1d6)"
       }
@@ -338,27 +338,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": ""
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "cryo"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "shock (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "shock (+1d6)"
       }
@@ -374,27 +374,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "radiation"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "radiation (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "explosive (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "explosive (+1d6)"
       }
@@ -410,27 +410,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "corrosive"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "corrosive (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "incendiary (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "incendiary (+1d6)"
       }
@@ -446,27 +446,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "shock"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "shock (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "cryo (+1d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "cryo (+1d6)"
       }
@@ -482,27 +482,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "explosive"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "explosive (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "radiation (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "radiation (+2d6)"
       }
@@ -518,27 +518,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "incendiary"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "incendiary (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "corrosive (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "corrosive (+2d6)"
       }
@@ -554,27 +554,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": ""
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "cryo"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "cryo (+1d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "shock (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "shock (+2d6)"
       }
@@ -590,27 +590,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "radiation"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "radiation (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "radiation (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "explosive (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "explosive (+2d6)"
       }
@@ -623,27 +623,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "corrosive"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "corrosive (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "corrosive (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "incendiary (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "incendiary (+2d6)"
       }
@@ -656,27 +656,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "shock"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "shock (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "shock (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "cryo (+2d6)"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "cryo (+2d6)"
       }
@@ -689,27 +689,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "explosive"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "explosive (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "explosive (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "radiation, incendiary"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "radiation, incendiary"
       }
@@ -722,27 +722,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "incendiary"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "incendiary (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "incendiary (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "shock, corrosive"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "shock, corrosive"
       }
@@ -755,27 +755,27 @@
     ],
     "rarities": [
       {
-        "DieNumber": 1,
+        "RarityId": 1,
         "rarity": "common",
         "effect": "cryo"
       },
       {
-        "DieNumber": 2,
+        "RarityId": 2,
         "rarity": "uncommon",
         "effect": "cryo (+1d6)"
       },
       {
-        "DieNumber": 3,
+        "RarityId": 3,
         "rarity": "rare",
         "effect": "cryo (+2d6)"
       },
       {
-        "DieNumber": 4,
+        "RarityId": 4,
         "rarity": "epic",
         "effect": "explosive, cryo"
       },
       {
-        "DieNumber": 5,
+        "RarityId": 5,
         "rarity": "legendary",
         "effect": "explosive, cryo"
       }

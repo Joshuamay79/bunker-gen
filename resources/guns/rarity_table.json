@@ -1,141 +1,165 @@
 [
     {
         "dieNumber": 1,
-        "diceRole": [
+        "GunRarities": [
             {
                 "dieNumber": 1,
-                "rarityInfo": "common",
-                "elemental": false
+                "rarityid": 1,
+                "rarity": "common",
+                "hasElement": false
             },
             {
                 "dieNumber": 2,
-                "rarityInfo": "common",
-                "elemental": true
+                "rarityid": 1,
+                "rarity": "common",
+                "hasElement": true
             },
             {
                 "dieNumber": 3,
-                "rarityInfo": "common",
-                "elemental": true
+                "rarityid": 1,
+                "rarity": "common",
+                "hasElement": true
             },
             {
                 "dieNumber": 4,
-                "rarityInfo": "uncommon",
-                "elemental": false
+                "rarityid": 2,
+                "rarity": "uncommon",
+                "hasElement": false
             },
             {
                 "dieNumber": 5,
-                "rarityInfo": "uncommon",
-                "elemental": true
+                "rarityid": 2,
+                "rarity": "uncommon",
+                "hasElement": true
             },
             {
                 "dieNumber": 6,
-                "rarityInfo": "rare",
-                "elemental": false
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": false
             }
         ]
     },
     {
         "dieNumber": 2,
-        "diceRole": [
+        "GunRarities": [
             {
                 "dieNumber": 1,
-                "rarityInfo": "common",
-                "elemental": false
+                "rarityid": 1,
+                "rarity": "common",
+                "hasElement": false
             },
             {
                 "dieNumber": 2,
-                "rarityInfo": "common",
-                "elemental": true
+                "rarityid": 1,
+                "rarity": "common",
+                "hasElement": true
             },
             {
                 "dieNumber": 3,
-                "rarityInfo": "uncommon",
-                "elemental": false
+                "rarityid": 2,
+                "rarity": "uncommon",
+                "hasElement": false
             },
             {
                 "dieNumber": 4,
-                "rarityInfo": "uncommon",
-                "elemental": true
+                "rarityid": 2,
+                "rarity": "uncommon",
+                "hasElement": true
             },
             {
                 "dieNumber": 5,
-                "rarityInfo": "rare",
-                "elemental": true
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": true
             },
             {
                 "dieNumber": 6,
-                "rarityInfo": "epic",
-                "elemental": false
+                "rarityid": 4,
+                "rarity": "epic",
+                "hasElement": false
             }
         ]
     },
     {
         "dieNumber": 3,
-        "diceRole": [
+        "GunRarities": [
             {
                 "dieNumber": 1,
-                "rarityInfo": "uncommon",
-                "elemental": true
+                "rarityid": 2,
+                "rarity": "uncommon",
+                "hasElement": true
             },
             {
                 "dieNumber": 2,
-                "rarityInfo": "rare",
-                "elemental": false
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": false
             },
             {
                 "dieNumber": 3,
-                "rarityInfo": "rare",
-                "elemental": true
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": true
             },
             {
                 "dieNumber": 4,
-                "rarityInfo": "epic",
-                "elemental": false
+                "rarityid": 4,
+                "rarity": "epic",
+                "hasElement": false
             },
             {
                 "dieNumber": 5,
-                "rarityInfo": "epic",
-                "elemental": true
+                "rarityid": 4,
+                "rarity": "epic",
+                "hasElement": true
             },
             {
                 "dieNumber": 6,
-                "rarityInfo": "legendary",
-                "elemental": true
+                "rarityid": 5,
+                "rarity": "legendary",
+                "hasElement": true
             }
         ]
     },
     {
         "dieNumber": 4,
-        "diceRole": [
+        "GunRarities": [
             {
                 "dieNumber": 1,
-                "rarityInfo": "rare",
-                "elemental": true
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": true
             },
             {
                 "dieNumber": 2,
-                "rarityInfo": "rare",
-                "elemental": true
+                "rarityid": 3,
+                "rarity": "rare",
+                "hasElement": true
             },
             {
                 "dieNumber": 3,
-                "rarityInfo": "epic",
-                "elemental": true
+                "rarityid": 4,
+                "rarity": "epic",
+                "hasElement": true
             },
             {
                 "dieNumber": 4,
-                "rarityInfo": "epic",
-                "elemental": true
+                "rarityid": 4,
+                "rarity": "epic",
+                "hasElement": true
             },
             {
                 "dieNumber": 5,
-                "rarityInfo": "legendary",
-                "elemental": true
+                "rarityid": 5,
+                "rarity": "legendary",
+                "hasElement": true
             },
             {
                 "dieNumber": 6,
-                "rarityInfo": "legendary",
-                "elemental": true
+                "rarityid": 5,
+                "rarity": "legendary",
+                "hasElement": true
             }
         ]
     }

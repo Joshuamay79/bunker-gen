@@ -1,0 +1,9 @@
+@startuml
+!include Meta.puml!0
+!include Meta.puml!2
+
+class Josh
+
+IDie <|-- Josh
+IGuild <|-- Josh
+@enduml

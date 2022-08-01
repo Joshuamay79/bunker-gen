@@ -79,6 +79,8 @@ namespace BunkerGen.Controllers
         [Route("gun")]
         public async Task<Grenade> GetGun(int level)
         {
+            var r = await GunService.BuildGunService(DiceService);
+            
             throw new NotImplementedException();
         }
 

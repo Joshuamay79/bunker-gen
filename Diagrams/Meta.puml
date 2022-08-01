@@ -1,0 +1,54 @@
+@startuml IDie
+interface IDie{
+    DieNumber:int
+}
+@enduml
+@startuml IDieRange
+interface IDieRange{
+    DieRange:List<int>
+}
+@enduml
+@startuml IGuild
+interface IGuild{
+    GuildId:int
+    GuildName:string
+}
+@enduml
+
+@startuml IGuildDie
+interface IGuildDie{
+    DieNumber:int
+    GuildId:int
+    GuildName:string
+}
+@enduml
+@startuml IRarity
+interface IRarity{
+    RarityId:int
+    RarityName:string
+}
+@enduml
+
+@startuml IRarityDie
+interface IRarityDie{
+    DieNumber:int
+    RarityId:int
+    RarityName:string
+}
+@enduml
+
+@startuml IGuildDieHierarchy
+!include Meta.puml!0
+!include Meta.puml!2
+!include Meta.puml!3
+IDie <|-- IGuildDie
+IGuild <|-- IGuildDie
+@enduml
+
+@startuml IRarityDieHierarchy
+!include Meta.puml!0
+!include Meta.puml!4
+!include Meta.puml!5
+IDie <|-- IRarityDie
+IRarity <|-- IRarityDie
+@enduml
