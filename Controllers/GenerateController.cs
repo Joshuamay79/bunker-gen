@@ -80,6 +80,7 @@ namespace BunkerGen.Controllers
         public async Task<Grenade> GetGun(int level)
         {
             var r = await GunService.BuildGunService(DiceService);
+            r.Execute(level);
             
             throw new NotImplementedException();
         }
