@@ -15,5 +15,6 @@ public enum DiceType
     D10 = 11,
     D12 = 13,
     D20 = 21,
-    D100 = 101
+    D100 = 101,
+    Relic = 41 // i hate this. not feeling like dealing with math right now.
 }

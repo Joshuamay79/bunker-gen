@@ -28,6 +28,9 @@ namespace BunkerGen.Services
             {
                 var r = DiceService.Roll(DiceType.D4);
                 var p = lp.Loot.FirstOrDefault(lpl => lpl.DieNumber == r);
+                if(p.GeneratesItem){
+                    
+                }
                 return p;
             })
             .ToList();

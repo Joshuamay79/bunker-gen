@@ -29,10 +29,11 @@ namespace BunkerGen.Controllers
 "https://localhost:7185/generate/shield?level=1",
 "https://localhost:7185/generate/grenade?level=1",
 "https://localhost:7185/generate/gun?level=1",
+"https://localhost:7185/generate/gun?level=1&elementalBonus=10",
 "https://localhost:7185/generate/potion",
-"https://localhost:7185/generate/cache-roll?cacheSize=1",
-"https://localhost:7185/generate/unassuming-chest",
-"https://localhost:7185/generate/dice-chest",
+// "https://localhost:7185/generate/cache-roll?cacheSize=1",
+// "https://localhost:7185/generate/unassuming-chest",
+// "https://localhost:7185/generate/dice-chest",
 "https://localhost:7185/generate/trauma"
             };
         }

@@ -85,7 +85,7 @@
             {
                 "DieNumber": 3,
                 "Description": "Random Potion (1)",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
@@ -104,28 +104,28 @@
             {
                 "DieNumber": 1,
                 "Description": "Random Potion (2)",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 2,
                 "Description": "Grenade Mod",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 3,
                 "Description": "Shield Mod",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 4,
                 "Description": "Random Gun",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             }
@@ -137,28 +137,28 @@
             {
                 "DieNumber": 1,
                 "Description": "Grenade Mod",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 2,
                 "Description": "Shield Mod",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 3,
                 "Description": "Common Relic",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             },
             {
                 "DieNumber": 4,
                 "Description": "Random Gun",
-                "GeneratesItem": false,
+                "GeneratesItem": true,
                 "ResourceType": 0,
                 "ResourceRarity": 0
             }
