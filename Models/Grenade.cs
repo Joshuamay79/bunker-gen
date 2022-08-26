@@ -8,5 +8,6 @@ namespace BunkerGen.Models
         public string GrenadeType { get; set; }
         public string Damage { get; set; }
         public string Effects { get; set; }
+        public bool HasElemental { get; set; }
     }
 }

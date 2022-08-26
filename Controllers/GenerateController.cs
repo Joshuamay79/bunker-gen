@@ -1,4 +1,6 @@
+using System.Text.Json;
 using BunkerGen.Models;
+using BunkerGen.Resources;
 using BunkerGen.Services;
 using Microsoft.AspNetCore.Mvc;
 
@@ -51,6 +53,7 @@ namespace BunkerGen.Controllers
         {
             var s = await RelicService.BuildRelicLoaderService(DiceService);
             var r = s.Execute();
+            SQLiteService.Add((int)LootType.Relic, JsonSerializer.Serialize(r));
 
             return r;
         }
@@ -61,7 +64,7 @@ namespace BunkerGen.Controllers
         {
             var r = await ShieldService.BuildShieldLoaderService(DiceService);
             var s = r.Execute(level);
-
+            SQLiteService.Add((int)LootType.Shield, JsonSerializer.Serialize(s));
             return s;
         }
 
@@ -70,19 +73,20 @@ namespace BunkerGen.Controllers
         public async Task<Grenade> GetGrenade(int level)
         {
             var r = await GrenadeService.BuildGrenadeLoaderService(DiceService);
-            var s = r.Execute(level);
-
-            return s;
+            var g = r.Execute(level);
+            SQLiteService.Add((int)LootType.Grenade, JsonSerializer.Serialize(g));
+            return g;
         }
 
         [HttpGet]
         [Route("gun")]
-        public async Task<Grenade> GetGun(int level)
+        public async Task<Gun> GetGun(int level, int elementalBonus = 0)
         {
             var r = await GunService.BuildGunService(DiceService);
-            r.Execute(level);
-            
-            throw new NotImplementedException();
+            var g = r.Execute(level, elementalBonus);
+            SQLiteService.Add((int)LootType.Gun, JsonSerializer.Serialize(g));
+
+            return g;
         }
 
         [HttpGet]
@@ -91,6 +95,7 @@ namespace BunkerGen.Controllers
         {
             var service = await PotionService.BuildPotionService(DiceService);
             var p = service.Execute();
+            SQLiteService.Add((int)LootType.Potion, JsonSerializer.Serialize(p));
 
             return p;
         }

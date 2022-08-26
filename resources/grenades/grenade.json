@@ -169,7 +169,8 @@
     "levelRange": [1, 2, 3, 4, 5, 6],
     "grenadeType": "Elemental",
     "damage": "1d8",
-    "effects": "Gains Element type"
+    "effects": "Gains Element type",
+    "HasElemental":true
   },
   {
     "guildId": 6,
@@ -185,7 +186,8 @@
     "levelRange": [13, 14, 15, 16, 17, 18],
     "grenadeType": "Elemental",
     "damage": "3d8",
-    "effects": "Gains Element type"
+    "effects": "Gains Element type",
+    "HasElemental":true
   },
   {
     "guildId": 6,
@@ -201,7 +203,8 @@
     "levelRange": [25, 26, 27, 28, 29, 30],
     "grenadeType": "Elemental",
     "damage": "5d8",
-    "effects": "Gains Element type"
+    "effects": "Gains Element type",
+    "HasElemental":true
   },
 
   {

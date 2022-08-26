@@ -35,19 +35,20 @@ namespace BunkerGen.Services
             this.redText = redText;
         }
 
-        public void Execute(int Level)
+        public Gun Execute(int Level, int elementalBonus)
         {
             var gun = new Gun();
             var d8_1 = DiceService.Roll(DiceType.D6); // only roll as d6 because favored weapon
             var d8_2 = DiceService.Roll(DiceType.D8);
             var d4 = DiceService.Roll(DiceType.D4);
             var d6 = DiceService.Roll(DiceType.D6);
-            var d100_elemental = DiceService.Roll(DiceType.D100);
+            var d100_elemental = DiceService.Roll(DiceType.D100) + elementalBonus;
+            if (d100_elemental > 100) d100_elemental = 100;
             var d100_prefix = DiceService.Roll(DiceType.D100);
             var d100_redText = DiceService.Roll(DiceType.D100);
+            var d100_prefixChance = DiceService.Roll(DiceType.D100);
 
-            Console.WriteLine($"d8_1 - {d8_1}, d8_2 - {d8_2}, d4 - {d4}, d6 - {d6}, d100_el - {d100_elemental}, d100_pre - {d100_prefix}, d100_red - {d100_redText}");
-// Error - d8_1 - 8, d8_2 - 3, d4 - 1, d6 - 4, d100_el - 27, d100_pre - 80, d100_red - 76
+            Console.WriteLine($"d8_1 - {d8_1}, d8_2 - {d8_2}, d4 - {d4}, d6 - {d6}, d100_el - {d100_elemental}, d100_pre - {d100_prefix}, d100_prechance - {d100_prefixChance}, d100_red - {d100_redText}");
 
             var gunTable = gunType.First(gt => gt.DieNumber == d8_1);
             gun.GunType = gunTable.GunType;
@@ -82,14 +83,16 @@ namespace BunkerGen.Services
 
             // 4 = epic
             // 5 = legendary
-            if (rarityTableRarity.RarityId == 4 || rarityTableRarity.RarityId == 5)
+            if (rarityTableRarity.RarityId >= 4)
             {
                 var reddText = redText.First(rt => rt.DieRange.Contains(d100_redText));
                 gun.RedText = reddText.Text;
                 gun.RedTextEffect = reddText.Effect;
             }
 
-            var usePrefix = true;
+            var usePrefix =
+            (rarityTableRarity.RarityId >= 2 && d100_prefixChance % 5 == 0) ||
+            (rarityTableRarity.RarityId >= 4 && d100_prefixChance % 2 == 0);
 
             if (usePrefix)
             {
@@ -97,6 +100,8 @@ namespace BunkerGen.Services
                 gun.Prefix = pref.Text;
                 gun.PrefixEffect = pref.Effect;
             }
+
+            return gun;
         }
     }
 }
